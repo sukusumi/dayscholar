@@ -1,0 +1,622 @@
+<codestructure version="5.15">
+<phptree>
+<treenode node="../PHPMailerAutoload.php;PHP:PHP Include;C:\xampp\htdocs\dayscholar\PHPMailer\test\test_callback.php;f14;35;38;35;;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerLangTest.php;f14;15;38;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../connection/checkdate.php;PHP:PHP Include;C:\xampp\htdocs\App\college\afflnfee\affln_fee.php;f9;9;36;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../connection/conn.php;PHP:PHP Include;C:\xampp\htdocs\App\college\afflnfee\affln_fee.php;f9;3;31;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../connection/conn_employee.php;PHP:PHP Include;C:\xampp\htdocs\App\college\afflnfee\affln_fee.php;f10;4;41;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../connection/conn_university.php;PHP:PHP Include;C:\xampp\htdocs\App\college\afflnfee\affln_fee.php;f9;7;42;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../connection/phpscripts.php;PHP:PHP Include;C:\xampp\htdocs\App\college\afflnfee\affln_fee.php;f14;8;42;8;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../connection/sessioncheck.php;PHP:PHP Include;C:\xampp\htdocs\App\college\afflnfee\affln_fee.php;f9;2;39;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../themes/theme.php;PHP:PHP Include;C:\xampp\htdocs\App\college\afflnfee\affln_fee.php;f9;5;28;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="mail_config.php;PHP:PHP Include;C:\xampp\htdocs\dayscholar\NewFile.php;f54;14;69;14;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PHPMailer/class.phpmailer.php;PHP:PHP Include;C:\xampp\htdocs\dayscholar\NewFile.php;f54;10;83;10;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PHPMailer/class.phpmaileroauth.php;PHP:PHP Include;C:\xampp\htdocs\dayscholar\NewFile.php;f54;12;88;12;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="PHPMailer/class.smtp.php;PHP:PHP Include;C:\xampp\htdocs\dayscholar\NewFile.php;f54;13;78;13;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SASL_CONTINUE;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f8;13;21;13;;;;vpos;;v;;a;;r1;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SASL_FAIL;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f8;12;17;12;;;;vpos;;v;;a;;r-1;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SASL_NTLM_STATE_DONE;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f8;11;28;11;;;;vpos;;v;;a;;r3;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SASL_NTLM_STATE_IDENTIFY_DOMAIN;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f8;9;39;9;;;;vpos;;v;;a;;r1;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SASL_NTLM_STATE_RESPOND_CHALLENGE;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f8;10;41;10;;;;vpos;;v;;a;;r2;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="SASL_NTLM_STATE_START;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f8;8;29;8;;;;vpos;;v;;a;;r0;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="vendor/autoload.php;PHP:PHP Include;C:\xampp\htdocs\dayscholar\PHPMailer\test\bootstrap.php;f14;1;33;1;;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f9;17;28;17;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="EasyPeasyICS;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php;f0;19;1;147;;;;vpos;;v;;a;;r&#10;Definition&#10;    class EasyPeasyICS&#10;&#10;Description&#10;     Class EasyPeasyICS. Simple ICS data generator;;d0,20;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php;f11;36;5;39;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct($calendarName = &quot;&quot;)&#10;&#10;Description&#10;     Constructor&#10;&#10;Parameters:&#10;    string $calendarName;;d4,37;;b1,0;;m0;;estring $calendarName;;p">
+</treenode>
+<treenode node="addEvent;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php;f11;51;5;66;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    addEvent($start, $end, $summary = &apos;&apos;, $description = &apos;&apos;, $url = &apos;&apos;, $uid = &apos;&apos;)&#10;&#10;Description&#10;     Add an event to this calendar.&#10;&#10;Parameters:&#10;    string $start - The start date and time as a unix timestamp&#10;    string $end - The end date and time as a unix timestamp&#10;    string $summary - A summary or title for the event&#10;    string $description - A description of the event&#10;    string $url - A URL for the event&#10;    string $uid - A unique identifier for the event - generated automatically if not provided&#10;&#10;Return:&#10;   An array of event details, including any generated UID;;d4,52;;b1,0;;m0;;estring $start;;pstring $end;;pstring $summary;;pstring $description;;pstring $url;;pstring $uid;;p">
+</treenode>
+<treenode node="clearEvents;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php;f11;79;5;82;;;;vpos;;v;;a;;r&#10;Definition&#10;    clearEvents()&#10;&#10;Description&#10;     Clear all events.;;d4,80;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getEvents;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php;f11;71;5;74;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getEvents()&#10;&#10;Description&#10;      Get the array of events.&#10;&#10;Return:&#10;   Get the array of events;;d4,72;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getName;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php;f11;88;5;91;;;;vpos;;v;;astring;;r&#10;Definition&#10;    getName()&#10;&#10;Description&#10;     Get the name of the calendar.;;d4,89;;b1,0;;m0;;e">
+</treenode>
+<treenode node="render;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php;f11;107;5;146;;;;vpos;;v;;astring;;r&#10;Definition&#10;    render($output = true)&#10;&#10;Description&#10;     Render and optionally output a vcal string.&#10;&#10;Parameters:&#10;    bool $output - Whether to output the calendar data directly (the default)&#10;&#10;Return:&#10;   The complete rendered vlal;;d4,108;;b1,0;;m0;;ebool $output;;p">
+</treenode>
+<treenode node="setName;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php;f11;97;5;100;;;;vpos;;v;;a;;r&#10;Definition&#10;    setName($name)&#10;&#10;Description&#10;     Set the name of the calendar.&#10;&#10;Parameters:&#10;     $name;;d4,98;;b1,0;;m0;;e $name;;p">
+</treenode>
+</treenode>
+<treenode node="Google;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f0;34;1;126;;;;vpos;;v;;aAbstractProvider;;cBearerAuthorizationTrait;;c;;r;;d0,35;;b0,0;;m0;;e">
+<treenode node="ACCESS_TOKEN_RESOURCE_OWNER_ID;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f9;38;40;38;;;;vpos;;v;;a;;r&apos;id&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="checkResponse;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f14;107;5;120;;;;vpos;;v;;a;;r;;d4,108;;b2,0;;m0;;eresponse;;pdata;;p">
+</treenode>
+<treenode node="createResourceOwner;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f14;122;5;125;;;;vpos;;v;;a;;r;;d4,123;;b2,0;;m0;;eresponse;;ptoken;;p">
+</treenode>
+<treenode node="getAuthorizationParameters;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f14;73;5;91;;;;vpos;;v;;a;;r;;d4,74;;b2,0;;m0;;eoptions;;p">
+</treenode>
+<treenode node="getBaseAccessTokenUrl;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f11;63;5;66;;;;vpos;;v;;a;;r;;d4,64;;b1,0;;m0;;eparams;;p">
+</treenode>
+<treenode node="getBaseAuthorizationUrl;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f11;58;5;61;;;;vpos;;v;;a;;r;;d4,59;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getDefaultScopes;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f14;93;5;100;;;;vpos;;v;;a;;r;;d4,94;;b2,0;;m0;;e">
+</treenode>
+<treenode node="getResourceOwnerDetailsUrl;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f11;68;5;71;;;;vpos;;v;;a;;r;;d4,69;;b1,0;;m0;;etoken;;p">
+</treenode>
+<treenode node="getScopeSeparator;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php;f14;102;5;105;;;;vpos;;v;;a;;r;;d4,103;;b2,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="ntlm_sasl_client_class;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f0;15;1;184;;;;vpos;;v;;a;;r;;d0,16;;b0,0;;m0;;e">
+<treenode node="ASCIIToUnicode;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f11;36;5;42;;;;vpos;;v;;a;;r;;d4,37;;b1,0;;m0;;eascii;;p">
+</treenode>
+<treenode node="initialize;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f11;20;5;34;;;;vpos;;v;;a;;r;;d4,21;;b1,0;;m0;;eclient;;p">
+</treenode>
+<treenode node="NTLMResponse;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f11;65;5;85;;;;vpos;;v;;a;;r;;d4,66;;b1,0;;m0;;echallenge;;ppassword;;p">
+</treenode>
+<treenode node="start;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f11;137;5;156;;;;vpos;;v;;a;;r;;d4,138;;b1,0;;m0;;eclient;;pmessage;;pinteractions;;p">
+</treenode>
+<treenode node="step;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f11;158;5;183;;;;vpos;;v;;a;;r;;d4,159;;b1,0;;m0;;eclient;;presponse;;pmessage;;pinteractions;;p">
+</treenode>
+<treenode node="typeMsg1;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f11;44;5;63;;;;vpos;;v;;a;;r;;d4,45;;b1,0;;m0;;edomain;;pworkstation;;p">
+</treenode>
+<treenode node="typeMsg3;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php;f11;87;5;135;;;;vpos;;v;;a;;r;;d4,88;;b1,0;;m0;;entlm_response;;puser;;pdomain;;pworkstation;;p">
+</treenode>
+</treenode>
+<treenode node="PHPMailer;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f0;27;1;3908;;;;vpos;;v;;a;;r&#10;Definition&#10;    class PHPMailer&#10;&#10;Description&#10;     PHPMailer - PHP email creation and transport class.;;d0,28;;b0,0;;m0;;e">
+<treenode node="CRLF;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f9;634;14;634;;;;vpos;;v;;a;;r&#10;Description&#10;     SMTP RFC standard line ending.;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="MAX_LINE_LENGTH;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f9;640;25;640;;;;vposinteger;;v;;a;;r998;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="STOP_CONTINUE;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f9;624;23;624;;;;vpos;;v;;a;;r&#10;Description&#10;     Error severity: message, likely ok to continue processing.;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="STOP_CRITICAL;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f9;629;23;629;;;;vpos;;v;;a;;r&#10;Description&#10;     Error severity: message, plus full stop, critical error reached.;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="STOP_MESSAGE;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f9;619;22;619;;;;vpos;;v;;a;;r&#10;Description&#10;     Error severity: message only, continue processing.;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;646;5;651;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct($exceptions = null)&#10;&#10;Description&#10;     Constructor.&#10;&#10;Parameters:&#10;    boolean $exceptions - Should we throw external exceptions?;;d4,647;;b1,0;;m0;;eboolean $exceptions;;p">
+</treenode>
+<treenode node="__destruct;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;656;5;660;;;;vpos;;v;;a;;r&#10;Definition&#10;    __destruct()&#10;&#10;Description&#10;     Destructor.;;d4,657;;b1,0;;m0;;e">
+</treenode>
+<treenode node="_mime_types;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f18;3414;5;3520;;;;vpos;;v;;astring;;r&#10;Definition&#10;    _mime_types($ext = &apos;&apos;)&#10;&#10;Description&#10;     Get the MIME type for a file extension.&#10;&#10;Parameters:&#10;    string $ext - File extension&#10;&#10;Return:&#10;   MIME type of file;;d4,3415;;b1,5;;m0;;estring $ext;;p">
+</treenode>
+<treenode node="addAddress;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;806;5;809;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addAddress($address, $name = &apos;&apos;)&#10;&#10;Description&#10;     Add a &quot;To&quot; address.&#10;&#10;Parameters:&#10;    string $address - The email address to send to&#10;    string $name&#10;&#10;Return:&#10;   true on success, false if address already used or invalid in some way;;d4,807;;b1,0;;m0;;estring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addAnAddress;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;902;5;935;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addAnAddress($kind, $address, $name = &apos;&apos;)&#10;&#10;Description&#10;     Add an address to one of the recipient arrays or to the ReplyTo array. Addresses that have been added already return false, but do not throw exceptions.&#10;&#10;Parameters:&#10;    string $kind - One of &apos;to&apos;, &apos;cc&apos;, &apos;bcc&apos;, or &apos;ReplyTo&apos;&#10;    string $address - The email address to send, resp&#10;    string $name&#10;&#10;Return:&#10;   true on success, false if address already used or invalid in some way;;d4,903;;b2,0;;m0;;estring $kind;;pstring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addAttachment;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2424;5;2461;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addAttachment($path, $name = &apos;&apos;, $encoding = &apos;base64&apos;, $type = &apos;&apos;, $disposition = &apos;attachment&apos;)&#10;&#10;Description&#10;     Add an attachment from a path on the filesystem. Returns false if the file could not be found or read.&#10;&#10;Parameters:&#10;    string $path - Path to the attachment&#10;    string $name - Overrides the attachment name&#10;    string $encoding - File encoding (see $Encoding)&#10;    string $type - File extension (MIME) type&#10;    string $disposition - Disposition to use;;d4,2425;;b1,0;;m0;;estring $path;;pstring $name;;pstring $encoding;;pstring $type;;pstring $disposition;;p">
+</treenode>
+<treenode node="addBCC;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;830;5;833;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addBCC($address, $name = &apos;&apos;)&#10;&#10;Description&#10;     Add a &quot;BCC&quot; address.&#10;&#10;Parameters:&#10;    string $address - The email address to send to&#10;    string $name&#10;&#10;Return:&#10;   true on success, false if address already used or invalid in some way;;d4,831;;b1,0;;m0;;estring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addCC;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;818;5;821;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addCC($address, $name = &apos;&apos;)&#10;&#10;Description&#10;     Add a &quot;CC&quot; address.&#10;&#10;Parameters:&#10;    string $address - The email address to send to&#10;    string $name&#10;&#10;Return:&#10;   true on success, false if address already used or invalid in some way;;d4,819;;b1,0;;m0;;estring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addCustomHeader;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3280;5;3288;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    addCustomHeader($name, $value = null)&#10;&#10;Description&#10;     Add a custom header. $name value can be overloaded to contain both header name and value (name:value)&#10;&#10;Parameters:&#10;    string $name - Custom header name&#10;    string $value - Header value;;d4,3281;;b1,0;;m0;;estring $name;;pstring $value;;p">
+</treenode>
+<treenode node="addEmbeddedImage;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2949;5;2978;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addEmbeddedImage($path, $cid, $name = &apos;&apos;, $encoding = &apos;base64&apos;, $type = &apos;&apos;, $disposition = &apos;inline&apos;)&#10;&#10;Description&#10;     Add an embedded (inline) attachment from a file. This can include images, sounds, and just about any other document type. These differ from &apos;regular&apos; attachments in that they are intended to be displayed inline with the message, not just attached for download. This is used in HTML messages that embed the images the HTML refers to using the $cid value.&#10;&#10;Parameters:&#10;    string $path - Path to the attachment&#10;    string $cid - Content ID of the attachment;s Use this to reference&#10;    string $name - Overrides the attachment name&#10;    string $encoding - File encoding (see $Encoding)&#10;    string $type - File MIME type&#10;    string $disposition - Disposition to use&#10;&#10;Return:&#10;   True on successfully adding an attachment;;d4,2950;;b1,0;;m0;;estring $path;;pstring $cid;;pstring $name;;pstring $encoding;;pstring $type;;pstring $disposition;;p">
+</treenode>
+<treenode node="addOrEnqueueAnAddress;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;858;5;890;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addOrEnqueueAnAddress($kind, $address, $name)&#10;&#10;Description&#10;     Add an address to one of the recipient arrays or to the ReplyTo array. Because PHPMailer can&apos;t validate addresses with an IDN without knowing the PHPMailer::$CharSet (that can still be modified after calling this function), addition of such addresses is delayed until send(). Addresses that have been added already return false, but do not throw exceptions.&#10;&#10;Parameters:&#10;    string $kind - One of &apos;to&apos;, &apos;cc&apos;, &apos;bcc&apos;, or &apos;ReplyTo&apos;&#10;    string $address - The email address to send, resp&#10;    string $name&#10;&#10;Return:&#10;   true on success, false if address already used or invalid in some way;;d4,859;;b2,0;;m0;;estring $kind;;pstring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addrAppend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1747;5;1754;;;;vpos;;v;;astring;;r&#10;Definition&#10;    addrAppend($type, $addr)&#10;&#10;Description&#10;     Create recipient headers.&#10;&#10;Parameters:&#10;    string $type&#10;    array $addr - An array of recipient,;;d4,1748;;b1,0;;m0;;estring $type;;parray $addr;;p">
+</treenode>
+<treenode node="addReplyTo;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;841;5;844;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addReplyTo($address, $name = &apos;&apos;)&#10;&#10;Description&#10;     Add a &quot;Reply-To&quot; address.&#10;&#10;Parameters:&#10;    string $address - The email address to reply to&#10;    string $name&#10;&#10;Return:&#10;   true on success, false if address already used or invalid in some way;;d4,842;;b1,0;;m0;;estring $address;;pstring $name;;p">
+</treenode>
+<treenode node="addrFormat;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1763;5;1772;;;;vpos;;v;;astring;;r&#10;Definition&#10;    addrFormat($addr)&#10;&#10;Description&#10;     Format an address for use in a message header.&#10;&#10;Parameters:&#10;    array $addr - A 2-element indexed array, element 0 containing an address, element 1 containing a name;;d4,1764;;b1,0;;m0;;earray $addr;;p">
+</treenode>
+<treenode node="addStringAttachment;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2909;5;2931;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    addStringAttachment(&#10;        $string,&#10;        $filename,&#10;        $encoding = &apos;base64&apos;,&#10;        $type = &apos;&apos;,&#10;        $disposition = &apos;attachment&apos;&#10;    )&#10;&#10;Description&#10;     Add a string or binary attachment (non-filesystem). This method can be used to attach ascii or binary data, such as a BLOB record from a database.&#10;&#10;Parameters:&#10;    string $string - String attachment data&#10;    string $filename - Name of the attachment&#10;    string $encoding - File encoding (see $Encoding)&#10;    string $type - File extension (MIME) type&#10;    string $disposition - Disposition to use;;d6,2915;;b1,0;;m0;;estring $string;;pstring $filename;;pstring $encoding;;pstring $type;;pstring $disposition;;p">
+</treenode>
+<treenode node="addStringEmbeddedImage;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2994;5;3019;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    addStringEmbeddedImage(&#10;        $string,&#10;        $cid,&#10;        $name = &apos;&apos;,&#10;        $encoding = &apos;base64&apos;,&#10;        $type = &apos;&apos;,&#10;        $disposition = &apos;inline&apos;&#10;    )&#10;&#10;Description&#10;     Add an embedded stringified attachment. This can include images, sounds, and just about any other document type. Be sure to set the $type to an image type for images: JPEG images use &apos;image/jpeg&apos;, GIF uses &apos;image/gif&apos;, PNG uses &apos;image/png&apos;.&#10;&#10;Parameters:&#10;    string $string - The attachment binary data&#10;    string $cid - Content ID of the attachment;s Use this to reference&#10;    string $name&#10;    string $encoding - File encoding (see $Encoding)&#10;    string $type - MIME type&#10;    string $disposition - Disposition to use&#10;&#10;Return:&#10;   True on successfully adding an attachment;;d6,3001;;b1,0;;m0;;estring $string;;pstring $cid;;pstring $name;;pstring $encoding;;pstring $type;;pstring $disposition;;p">
+</treenode>
+<treenode node="alternativeExists;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3054;5;3057;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    alternativeExists()&#10;&#10;Description&#10;     Check if this message has an alternative body set.;;d4,3055;;b1,0;;m0;;e">
+</treenode>
+<treenode node="attachAll;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;2480;5;2594;;;;vpos;;v;;astring;;r&#10;Definition&#10;    attachAll($disposition_type, $boundary)&#10;&#10;Description&#10;     Attach all file, string, and binary attachments to the message. Returns an empty string on failure.&#10;&#10;Parameters:&#10;    string $disposition_type&#10;    string $boundary;;d4,2481;;b2,0;;m0;;estring $disposition_type;;pstring $boundary;;p">
+</treenode>
+<treenode node="attachmentExists;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3040;5;3048;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    attachmentExists()&#10;&#10;Description&#10;     Check if an attachment (non-inline) is present.;;d4,3041;;b1,0;;m0;;e">
+</treenode>
+<treenode node="base64EncodeWrapMB;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2775;5;2806;;;;vpos;;v;;astring;;r&#10;Definition&#10;    base64EncodeWrapMB($str, $linebreak = null)&#10;&#10;Description&#10;     Encode and wrap long multibyte strings for mail headers without breaking lines within a character. Adapted from a function by paravoid&#10;&#10;Parameters:&#10;    string $str - multi-byte text to wrap encode&#10;    string $linebreak - string to use as linefeed/end-of-line;;d4,2776;;b1,0;;m0;;estring $str;;pstring $linebreak;;p">
+</treenode>
+<treenode node="clearAddresses;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3079;5;3086;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    clearAddresses()&#10;&#10;Description&#10;     Clear all To recipients.;;d4,3080;;b1,0;;m0;;e">
+</treenode>
+<treenode node="clearAllRecipients;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3128;5;3135;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    clearAllRecipients()&#10;&#10;Description&#10;     Clear all recipient types.;;d4,3129;;b1,0;;m0;;e">
+</treenode>
+<treenode node="clearAttachments;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3141;5;3144;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    clearAttachments()&#10;&#10;Description&#10;     Clear all filesystem, string, and binary attachments.;;d4,3142;;b1,0;;m0;;e">
+</treenode>
+<treenode node="clearBCCs;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3105;5;3112;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    clearBCCs()&#10;&#10;Description&#10;     Clear all BCC recipients.;;d4,3106;;b1,0;;m0;;e">
+</treenode>
+<treenode node="clearCCs;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3092;5;3099;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    clearCCs()&#10;&#10;Description&#10;     Clear all CC recipients.;;d4,3093;;b1,0;;m0;;e">
+</treenode>
+<treenode node="clearCustomHeaders;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3150;5;3153;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    clearCustomHeaders()&#10;&#10;Description&#10;     Clear all custom headers.;;d4,3151;;b1,0;;m0;;e">
+</treenode>
+<treenode node="clearQueuedAddresses;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3065;5;3073;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    clearQueuedAddresses($kind)&#10;&#10;Description&#10;     Clear queued addresses of given kind.&#10;&#10;Parameters:&#10;    string $kind - &apos;to&apos;, &apos;cc&apos;, or &apos;bcc&apos;;;d4,3066;;b1,0;;m0;;estring $kind;;p">
+</treenode>
+<treenode node="clearReplyTos;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3118;5;3122;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    clearReplyTos()&#10;&#10;Description&#10;     Clear all ReplyTo recipients.;;d4,3119;;b1,0;;m0;;e">
+</treenode>
+<treenode node="createBody;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2116;5;2319;;;;vpos;;v;;astring;;r&#10;Definition&#10;    createBody()&#10;&#10;Description&#10;     Assemble the message body. Returns an empty string on failure.&#10;&#10;Return:&#10;   The assembled message body;;d4,2117;;b1,0;;m0;;e">
+</treenode>
+<treenode node="createHeader;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1953;5;2042;;;;vpos;;v;;astring;;r&#10;Definition&#10;    createHeader()&#10;&#10;Description&#10;     Assemble message headers.&#10;&#10;Return:&#10;   The assembled headers;;d4,1954;;b1,0;;m0;;e">
+</treenode>
+<treenode node="DKIM_Add;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3752;5;3822;;;;vpos;;v;;astring;;r&#10;Definition&#10;    DKIM_Add($headers_line, $subject, $body)&#10;&#10;Description&#10;     Create the DKIM header and body in a new message header.&#10;&#10;Parameters:&#10;    string $headers_line - Header lines&#10;    string $subject - Subject&#10;    string $body - Body;;d4,3753;;b1,0;;m0;;estring $headers_line;;pstring $subject;;pstring $body;;p">
+</treenode>
+<treenode node="DKIM_BodyC;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3729;5;3742;;;;vpos;;v;;astring;;r&#10;Definition&#10;    DKIM_BodyC($body)&#10;&#10;Description&#10;     Generate a DKIM canonicalization body.&#10;&#10;Parameters:&#10;    string $body - Message Body;;d4,3730;;b1,0;;m0;;estring $body;;p">
+</treenode>
+<treenode node="DKIM_HeaderC;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3709;5;3721;;;;vpos;;v;;astring;;r&#10;Definition&#10;    DKIM_HeaderC($signHeader)&#10;&#10;Description&#10;     Generate a DKIM canonicalization header.&#10;&#10;Parameters:&#10;    string $signHeader - Header;;d4,3710;;b1,0;;m0;;estring $signHeader;;p">
+</treenode>
+<treenode node="DKIM_QP;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3660;5;3672;;;;vpos;;v;;astring;;r&#10;Definition&#10;    DKIM_QP($txt)&#10;&#10;Description&#10;     Quoted-Printable-encode a DKIM header.&#10;&#10;Parameters:&#10;    string $txt;;d4,3661;;b1,0;;m0;;estring $txt;;p">
+</treenode>
+<treenode node="DKIM_Sign;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3681;5;3701;;;;vpos;;v;;astring;;r&#10;Definition&#10;    DKIM_Sign($signHeader)&#10;&#10;Description&#10;     Generate a DKIM signature.&#10;&#10;Parameters:&#10;    string $signHeader;;d4,3682;;b1,0;;m0;;estring $signHeader;;p">
+</treenode>
+<treenode node="doCallback;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;3901;5;3907;;;;vpos;;v;;a;;r&#10;Definition&#10;    doCallback($isSent, $to, $cc, $bcc, $subject, $body, $from)&#10;&#10;Description&#10;     Perform a callback.&#10;&#10;Parameters:&#10;    boolean $isSent&#10;    array $to&#10;    array $cc&#10;    array $bcc&#10;    string $subject&#10;    string $body&#10;    string $from;;d4,3902;;b2,0;;m0;;eboolean $isSent;;parray $to;;parray $cc;;parray $bcc;;pstring $subject;;pstring $body;;pstring $from;;p">
+</treenode>
+<treenode node="edebug;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;700;5;734;;;;vpos;;v;;a;;r&#10;Definition&#10;    edebug($str)&#10;&#10;Description&#10;     Output debugging info via user-defined method. Only generates output if SMTP debug output is enabled ( see SMTP::$do_debug).&#10;&#10;Parameters:&#10;    string $str;;d4,701;;b2,0;;m0;;estring $str;;p">
+</treenode>
+<treenode node="encodeFile;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;2605;5;2636;;;;vpos;;v;;astring;;r&#10;Definition&#10;    encodeFile($path, $encoding = &apos;base64&apos;)&#10;&#10;Description&#10;     Encode a file attachment in requested format. Returns an empty string on failure.&#10;&#10;Parameters:&#10;    string $path - The full path to the file&#10;    string $encoding - The encoding to use;s one of &apos;base64&apos;, &apos;7bit&apos;, &apos;8bit&apos;, &apos;binary&apos;, &apos;quoted-printable&apos;;;d4,2606;;b2,0;;m0;;estring $path;;pstring $encoding;;p">
+</treenode>
+<treenode node="encodeHeader;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2682;5;2738;;;;vpos;;v;;astring;;r&#10;Definition&#10;    encodeHeader($str, $position = &apos;text&apos;)&#10;&#10;Description&#10;     Encode a header string optimally. Picks shortest of Q, B, quoted-printable or none.&#10;&#10;Parameters:&#10;    string $str&#10;    string $position;;d4,2683;;b1,0;;m0;;estring $str;;pstring $position;;p">
+</treenode>
+<treenode node="encodeQ;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2858;5;2896;;;;vpos;;v;;astring;;r&#10;Definition&#10;    encodeQ($str, $position = &apos;text&apos;)&#10;&#10;Description&#10;     Encode a string using Q encoding.&#10;&#10;Parameters:&#10;    string $str - the text to encode&#10;    string $position - Where the text is going to be used, see the RFC for what that means;;d4,2859;;b1,0;;m0;;estring $str;;pstring $position;;p">
+</treenode>
+<treenode node="encodeQP;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2817;5;2830;;;;vpos;;v;;astring;;r&#10;Definition&#10;    encodeQP($string, $line_max = 76)&#10;&#10;Description&#10;     Encode a string in quoted-printable format. According to RFC2045 section 6.7.&#10;&#10;Parameters:&#10;    string $string - The text to encode&#10;    integer $line_max - Number of chars allowed on a line before wrapping;;d4,2818;;b1,0;;m0;;estring $string;;pinteger $line_max;;p">
+</treenode>
+<treenode node="encodeQPphp;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2842;5;2848;;;;vpos;;v;;astring;;r&#10;Definition&#10;    encodeQPphp(&#10;        $string,&#10;        $line_max = 76,&#10;        /** @noinspection PhpUnusedParameterInspection */ $space_conv = false&#10;    )&#10;&#10;Description&#10;     Backward compatibility wrapper for an old QP encoding function that was removed.&#10;&#10;Parameters:&#10;    string $string&#10;    integer $line_max&#10;    boolean $space_conv;;d6,2846;;b1,0;;m0;;estring $string;;pinteger $line_max;;pboolean $space_conv;;p">
+</treenode>
+<treenode node="encodeString;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2646;5;2672;;;;vpos;;v;;astring;;r&#10;Definition&#10;    encodeString($str, $encoding = &apos;base64&apos;)&#10;&#10;Description&#10;     Encode a string in requested format. Returns an empty string on failure.&#10;&#10;Parameters:&#10;    string $str - The text to encode&#10;    string $encoding - The encoding to use;s one of &apos;base64&apos;, &apos;7bit&apos;, &apos;8bit&apos;, &apos;binary&apos;, &apos;quoted-printable&apos;;;d4,2647;;b1,0;;m0;;estring $str;;pstring $encoding;;p">
+</treenode>
+<treenode node="endBoundary;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;2360;5;2363;;;;vpos;;v;;astring;;r&#10;Definition&#10;    endBoundary($boundary)&#10;&#10;Description&#10;     Return the end of a message boundary.&#10;&#10;Parameters:&#10;    string $boundary;;d4,2361;;b2,0;;m0;;estring $boundary;;p">
+</treenode>
+<treenode node="filenameToType;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f18;3529;5;3538;;;;vpos;;v;;astring;;r&#10;Definition&#10;    filenameToType($filename)&#10;&#10;Description&#10;     Map a file name to a MIME type. Defaults to &apos;application/octet-stream&apos;, i.e.. arbitrary binary data.&#10;&#10;Parameters:&#10;    string $filename - A file name or full path, does not need to exist as a file;;d4,3530;;b1,5;;m0;;estring $filename;;p">
+</treenode>
+<treenode node="fixEOL;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3260;5;3269;;;;vpos;;v;;astring;;r&#10;Definition&#10;    fixEOL($str)&#10;&#10;Description&#10;     Ensure consistent line endings in a string. Changes every end of line from CRLF, CR or LF to $this-&gt;LE.&#10;&#10;Parameters:&#10;    string $str - String to fixEOL;;d4,3261;;b1,0;;m0;;estring $str;;p">
+</treenode>
+<treenode node="getAllRecipientAddresses;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3886;5;3889;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getAllRecipientAddresses()&#10;&#10;Description&#10;     Allows for public read access to &apos;all_recipients&apos; property.;;d4,3887;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getAttachments;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2467;5;2470;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getAttachments()&#10;&#10;Description&#10;     Return the array of attachments.;;d4,2468;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getBccAddresses;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3864;5;3867;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getBccAddresses()&#10;&#10;Description&#10;     Allows for public read access to &apos;bcc&apos; property.;;d4,3865;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getBoundary;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;2330;5;2352;;;;vpos;;v;;astring;;r&#10;Definition&#10;    getBoundary($boundary, $charSet, $contentType, $encoding)&#10;&#10;Description&#10;     Return the start of a message boundary.&#10;&#10;Parameters:&#10;    string $boundary&#10;    string $charSet&#10;    string $contentType&#10;    string $encoding;;d4,2331;;b2,0;;m0;;estring $boundary;;pstring $charSet;;pstring $contentType;;pstring $encoding;;p">
+</treenode>
+<treenode node="getCcAddresses;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3853;5;3856;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getCcAddresses()&#10;&#10;Description&#10;     Allows for public read access to &apos;cc&apos; property.;;d4,3854;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getCustomHeaders;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3294;5;3297;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getCustomHeaders()&#10;&#10;Description&#10;     Returns all custom headers.;;d4,3295;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getLastMessageID;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1033;5;1036;;;;vpos;;v;;astring;;r&#10;Definition&#10;    getLastMessageID()&#10;&#10;Description&#10;     Return the Message-ID header of the last email. Technically this is the value from the last time the headers were created, but it&apos;s also the message ID of the last sent message except in pathological cases.;;d4,1034;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getMailMIME;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2049;5;2094;;;;vpos;;v;;astring;;r&#10;Definition&#10;    getMailMIME()&#10;&#10;Description&#10;     Get the message MIME type headers.;;d4,2050;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getReplyToAddresses;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3875;5;3878;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getReplyToAddresses()&#10;&#10;Description&#10;     Allows for public read access to &apos;ReplyTo&apos; property.;;d4,3876;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getSentMIMEMessage;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2104;5;2107;;;;vpos;;v;;astring;;r&#10;Definition&#10;    getSentMIMEMessage()&#10;&#10;Description&#10;     Returns the whole MIME message. Includes complete headers and body. Only valid post preSend().;;d4,2105;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getSMTPInstance;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1464;5;1470;;;;vpos;;v;;aSMTP;;r&#10;Definition&#10;    getSMTPInstance()&#10;&#10;Description&#10;     Get an instance to use for SMTP operations. Override this function to load your own SMTP implementation;;d4,1465;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getToAddresses;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3842;5;3845;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getToAddresses()&#10;&#10;Description&#10;     Allows for public read access to &apos;to&apos; property.;;d4,3843;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getTranslations;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1732;5;1735;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getTranslations()&#10;&#10;Description&#10;     Get the array of strings for the current language.;;d4,1733;;b1,0;;m0;;e">
+</treenode>
+<treenode node="has8bitChars;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2760;5;2763;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    has8bitChars($text)&#10;&#10;Description&#10;     Does a string contain any 8-bit chars (in any charset)?&#10;&#10;Parameters:&#10;    string $text;;d4,2761;;b1,0;;m0;;estring $text;;p">
+</treenode>
+<treenode node="hasLineLongerThanMax;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f18;3830;5;3834;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    hasLineLongerThanMax($str)&#10;&#10;Description&#10;     Detect if a string contains a line longer than the maximum line length allowed.&#10;&#10;Parameters:&#10;    string $str;;d4,3831;;b1,5;;m0;;estring $str;;p">
+</treenode>
+<treenode node="hasMultiBytes;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2746;5;2753;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    hasMultiBytes($str)&#10;&#10;Description&#10;     Check if a string contains multi-byte characters.&#10;&#10;Parameters:&#10;    string $str - multi-byte text to wrap encode;;d4,2747;;b1,0;;m0;;estring $str;;p">
+</treenode>
+<treenode node="headerLine;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2397;5;2400;;;;vpos;;v;;astring;;r&#10;Definition&#10;    headerLine($name, $value)&#10;&#10;Description&#10;     Format a header line.&#10;&#10;Parameters:&#10;    string $name&#10;    string $value;;d4,2398;;b1,0;;m0;;estring $name;;pstring $value;;p">
+</treenode>
+<treenode node="html2text;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3395;5;3405;;;;vpos;;v;;astring;;r&#10;Definition&#10;    html2text($html, $advanced = false)&#10;&#10;Description&#10;     Convert an HTML string into plain text. This is used by msgHTML(). Note - older versions of this function used a bundled advanced converter which was been removed for license reasons in #232 Example usage: &lt;code&gt; // Use default conversion $plain = $mail-&gt;html2text($html);s // Use your own custom converter $plain = $mail-&gt;html2text($html, function($html) { $converter = new MyHtml2text($html);s return $converter-&gt;get_text();s });s &lt;/code&gt;&#10;&#10;Parameters:&#10;    string $html - The HTML text to convert&#10;    boolean|callable $advanced - Any boolean value to use the internal converter,;;d4,3396;;b1,0;;m0;;estring $html;;pboolean|callable $advanced;;p">
+</treenode>
+<treenode node="idnSupported;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1153;5;1157;;;;vpos;;v;;abool;;r&#10;Definition&#10;    idnSupported()&#10;&#10;Description&#10;     Tells whether IDNs (Internationalized Domain Names) are supported or not. This requires the &quot;intl&quot; and &quot;mbstring&quot; PHP extensions.&#10;&#10;Return:&#10;   &quot;true&quot; if required functions for IDN support are present;;d4,1154;;b1,0;;m0;;e">
+</treenode>
+<treenode node="inlineImageExists;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3026;5;3034;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    inlineImageExists()&#10;&#10;Description&#10;     Check if an inline attachment is present.;;d4,3027;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isError;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3248;5;3251;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    isError()&#10;&#10;Description&#10;     Check if an error occurred.&#10;&#10;Return:&#10;   True if an error did occur;;d4,3249;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isHTML;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;741;5;748;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    isHTML($isHtml = true)&#10;&#10;Description&#10;     Sets message type to HTML or plain.&#10;&#10;Parameters:&#10;    boolean $isHtml - True for HTML mode;;d4,742;;b1,0;;m0;;eboolean $isHtml;;p">
+</treenode>
+<treenode node="isMail;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;763;5;766;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    isMail()&#10;&#10;Description&#10;     Send messages using PHP&apos;s mail() function.;;d4,764;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isQmail;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;788;5;798;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    isQmail()&#10;&#10;Description&#10;     Send messages using qmail.;;d4,789;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isSendmail;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;772;5;782;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    isSendmail()&#10;&#10;Description&#10;     Send messages using $Sendmail.;;d4,773;;b1,0;;m0;;e">
+</treenode>
+<treenode node="isSMTP;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;754;5;757;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    isSMTP()&#10;&#10;Description&#10;     Send messages using SMTP.;;d4,755;;b1,0;;m0;;e">
+</treenode>
+<treenode node="lang;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;3223;5;3241;;;;vpos;;v;;astring;;r&#10;Definition&#10;    lang($key)&#10;&#10;Description&#10;     Get an error message in the current language.&#10;&#10;Parameters:&#10;    string $key;;d4,3224;;b2,0;;m0;;estring $key;;p">
+</treenode>
+<treenode node="mailPassthru;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f12;675;5;691;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    mailPassthru($to, $subject, $body, $header, $params)&#10;&#10;Description&#10;     Call mail() in a safe_mode-aware fashion. Also, unless sendmail_path points to sendmail (or something that claims to be sendmail), don&apos;t pass params (not a perfect fix, but it will do)&#10;&#10;Parameters:&#10;    string $to - To&#10;    string $subject - Subject&#10;    string $body - Message Body&#10;    string $header - Additional Header(s)&#10;    string $params - Params;;d4,676;;b3,0;;m0;;estring $to;;pstring $subject;;pstring $body;;pstring $header;;pstring $params;;p">
+</treenode>
+<treenode node="mailSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;1423;5;1457;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    mailSend($header, $body)&#10;&#10;Description&#10;     Send mail using the PHP mail() function.&#10;&#10;Parameters:&#10;    string $header - The message headers&#10;    string $body - The message body;;d4,1424;;b2,0;;m0;;estring $header;;pstring $body;;p">
+</treenode>
+<treenode node="mb_pathinfo;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f18;3551;5;3585;;;;vpos;;v;;astring;;r&#10;Definition&#10;    mb_pathinfo($path, $options = null)&#10;&#10;Description&#10;     Multi-byte-safe pathinfo replacement. Drop-in replacement for pathinfo(), but multibyte-safe, cross-platform-safe, old-version-safe. Works similarly to the one in PHP &gt;= 5.2.0&#10;&#10;Parameters:&#10;    string $path - A filename or path, does not need to exist as a file&#10;    integer|string $options - Either a PATHINFO_* constant,&#10;&#10;Return:&#10;   |array;;d4,3552;;b1,5;;m0;;estring $path;;pinteger|string $options;;p">
+</treenode>
+<treenode node="msgHTML;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3311;5;3373;;;;vpos;;v;;astring;;r&#10;Definition&#10;    msgHTML($message, $basedir = &apos;&apos;, $advanced = false)&#10;&#10;Description&#10;     Create a message from an HTML string. Automatically makes modifications for inline images and backgrounds and creates a plain-text version by converting the HTML. Overwrites any existing values in $this-&gt;Body and $this-&gt;AltBody&#10;&#10;Parameters:&#10;    string $message - HTML message string&#10;    string $basedir - baseline directory for path&#10;    boolean|callable $advanced - Whether to use the internal HTML to text converter&#10;&#10;Return:&#10;   $message;;d4,3312;;b1,0;;m0;;estring $message;;pstring $basedir;;pboolean|callable $advanced;;p">
+</treenode>
+<treenode node="normalizeBreaks;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f18;3633;5;3636;;;;vpos;;v;;astring;;r&#10;Definition&#10;    normalizeBreaks($text, $breaktype = &quot;\r\n&quot;)&#10;&#10;Description&#10;     Normalize line breaks in a string. Converts UNIX LF, Mac CR and Windows CRLF line breaks into a single line break format. Defaults to CRLF (for message bodies) and preserves consecutive breaks.&#10;&#10;Parameters:&#10;    string $text&#10;    string $breaktype - What kind of line break to use, defaults to CRLF;;d4,3634;;b1,5;;m0;;estring $text;;pstring $breaktype;;p">
+</treenode>
+<treenode node="parseAddresses;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;947;5;990;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    parseAddresses($addrstr, $useimap = true)&#10;&#10;Description&#10;     Parse and validate a string containing one or more RFC822-style comma-separated email addresses of the form &quot;display name &lt;address&gt;&quot; into an array of name/address pairs. Uses the imap_rfc822_parse_adrlist function if the IMAP extension is available. Note that quotes in the name part are removed.&#10;&#10;Parameters:&#10;    string $addrstr - The address list string&#10;    bool $useimap - Whether to use the IMAP extension to parse the list;;d4,948;;b1,0;;m0;;estring $addrstr;;pbool $useimap;;p">
+</treenode>
+<treenode node="postSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1315;5;1343;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    postSend()&#10;&#10;Description&#10;     Actually send a message. Send the email via the selected mechanism;;d4,1316;;b1,0;;m0;;e">
+</treenode>
+<treenode node="preSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1220;5;1307;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    preSend()&#10;&#10;Description&#10;     Prepare a message for sending.;;d4,1221;;b1,0;;m0;;e">
+</treenode>
+<treenode node="punyencodeAddress;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1170;5;1188;;;;vpos;;v;;astring;;r&#10;Definition&#10;    punyencodeAddress($address)&#10;&#10;Description&#10;     Converts IDN in given email address to its ASCII form, also known as punycode, if possible. Important: Address must be passed in same encoding as currently set in PHPMailer::$CharSet. This function silently returns unmodified address if: - No conversion is necessary (i.e. domain name is not an IDN, or is already in ASCII form) - Conversion to punycode is impossible (e.g. required PHP functions are not available) or fails for any reason (e.g. domain has characters not allowed in an IDN)&#10;&#10;Parameters:&#10;    string $address - The email address to convert&#10;&#10;Return:&#10;   The encoded address in ASCII form;;d4,1171;;b1,0;;m0;;estring $address;;p">
+</treenode>
+<treenode node="rfcDate;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f18;3188;5;3194;;;;vpos;;v;;astring;;r&#10;Definition&#10;    rfcDate()&#10;&#10;Description&#10;     Return an RFC 822 formatted date.;;d4,3189;;b1,5;;m0;;e">
+</treenode>
+<treenode node="secureHeader;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3618;5;3621;;;;vpos;;v;;astring;;r&#10;Definition&#10;    secureHeader($str)&#10;&#10;Description&#10;     Strip newlines to prevent header injection.&#10;&#10;Parameters:&#10;    string $str;;d4,3619;;b1,0;;m0;;estring $str;;p">
+</treenode>
+<treenode node="send;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1196;5;1213;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    send()&#10;&#10;Description&#10;     Create a message and send it. Uses the sending method specified by $Mailer.&#10;&#10;Return:&#10;   false on error - See the ErrorInfo property for details of the error;;d4,1197;;b1,0;;m0;;e">
+</treenode>
+<treenode node="sendmailSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;1354;5;1412;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    sendmailSend($header, $body)&#10;&#10;Description&#10;     Send mail using the $Sendmail program.&#10;&#10;Parameters:&#10;    string $header - The message headers&#10;    string $body - The message body;;d4,1355;;b2,0;;m0;;estring $header;;pstring $body;;p">
+</treenode>
+<treenode node="serverHostname;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;3202;5;3215;;;;vpos;;v;;astring;;r&#10;Definition&#10;    serverHostname()&#10;&#10;Description&#10;     Get the server hostname. Returns &apos;localhost.localdomain&apos; if unknown.;;d4,3203;;b2,0;;m0;;e">
+</treenode>
+<treenode node="set;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3601;5;3610;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    set($name, $value = &apos;&apos;)&#10;&#10;Description&#10;     Set or reset instance properties. You should avoid this function - it&apos;s more verbose, less efficient, more error-prone and harder to debug than setting properties directly. Usage Example: `$mail-&gt;set(&apos;SMTPSecure&apos;, &apos;tls&apos;);s` is the same as: `$mail-&gt;SMTPSecure = &apos;tls&apos;;s`&#10;&#10;Parameters:&#10;    string $name - The property name to set&#10;    mixed $value - The value to set the property to;;d4,3602;;b1,0;;m0;;estring $name;;pmixed $value;;p">
+</treenode>
+<treenode node="setError;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;3161;5;3180;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    setError($msg)&#10;&#10;Description&#10;     Add an error message to the error container.&#10;&#10;Parameters:&#10;    string $msg;;d4,3162;;b2,0;;m0;;estring $msg;;p">
+</treenode>
+<treenode node="setFrom;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1000;5;1024;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    setFrom($address, $name = &apos;&apos;, $auto = true)&#10;&#10;Description&#10;     Set the From and FromName properties.&#10;&#10;Parameters:&#10;    string $address&#10;    string $name&#10;    boolean $auto - Whether to also set the Sender address, defaults to true;;d4,1001;;b1,0;;m0;;estring $address;;pstring $name;;pboolean $auto;;p">
+</treenode>
+<treenode node="setLanguage;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1683;5;1726;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    setLanguage($langcode = &apos;en&apos;, $lang_path = &apos;&apos;)&#10;&#10;Description&#10;     Set the language for error messages. Returns false if it cannot load the language file. The default language is English.&#10;&#10;Parameters:&#10;    string $langcode - ISO 639-1 2-character language code (e&#10;    string $lang_path - Path to the language file directory, with trailing separator (slash);;d4,1684;;b1,0;;m0;;estring $langcode;;pstring $lang_path;;p">
+</treenode>
+<treenode node="setMessageType;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;2371;5;2388;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    setMessageType()&#10;&#10;Description&#10;     Set the message type. PHPMailer only supports some preset message types, not arbitrary MIME structures.;;d4,2372;;b2,0;;m0;;e">
+</treenode>
+<treenode node="setWordWrap;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1929;5;1946;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    setWordWrap()&#10;&#10;Description&#10;     Apply word wrapping to the message body. Wraps the message body to the number of chars set in the WordWrap property. You should only do this to plain-text bodies as wrapping HTML tags may break them. This is called automatically by createBody(), so you don&apos;t need to call it yourself.;;d4,1930;;b1,0;;m0;;e">
+</treenode>
+<treenode node="sign;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3646;5;3652;;;;vpos;;v;;a;;r&#10;Definition&#10;    sign($cert_filename, $key_filename, $key_pass, $extracerts_filename = &apos;&apos;)&#10;&#10;Description&#10;     Set the public and private key files and password for S/MIME signing.&#10;&#10;Parameters:&#10;    string $cert_filename&#10;    string $key_filename&#10;    string $key_pass - Password for private key&#10;    string $extracerts_filename - Optional path to chain certificate;;d4,3647;;b1,0;;m0;;estring $cert_filename;;pstring $key_filename;;pstring $key_pass;;pstring $extracerts_filename;;p">
+</treenode>
+<treenode node="smtpClose;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1664;5;1672;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    smtpClose()&#10;&#10;Description&#10;     Close the active SMTP session if one exists.;;d4,1665;;b1,0;;m0;;e">
+</treenode>
+<treenode node="smtpConnect;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1547;5;1658;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    smtpConnect($options = null)&#10;&#10;Description&#10;     Initiate a connection to an SMTP server. Returns false if the operation failed.&#10;&#10;Parameters:&#10;    array $options - An array of options compatible with stream_context_create();;d4,1548;;b1,0;;m0;;earray $options;;p">
+</treenode>
+<treenode node="smtpSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f14;1484;5;1536;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    smtpSend($header, $body)&#10;&#10;Description&#10;     Send mail via SMTP. Returns false if there is a bad MAIL FROM, RCPT, or DATA input. Uses the PHPMailerSMTP class by default.&#10;&#10;Parameters:&#10;    string $header - The message headers&#10;    string $body - The message body;;d4,1485;;b2,0;;m0;;estring $header;;pstring $body;;p">
+</treenode>
+<treenode node="textLine;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;2408;5;2411;;;;vpos;;v;;astring;;r&#10;Definition&#10;    textLine($value)&#10;&#10;Description&#10;     Return a formatted mail line.&#10;&#10;Parameters:&#10;    string $value;;d4,2409;;b1,0;;m0;;estring $value;;p">
+</treenode>
+<treenode node="utf8CharBoundary;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1884;5;1919;;;;vpos;;v;;ainteger;;r&#10;Definition&#10;    utf8CharBoundary($encodedText, $maxLength)&#10;&#10;Description&#10;     Find the last character boundary prior to $maxLength in a utf-8 quoted-printable encoded string. Original written by Colin Brown.&#10;&#10;Parameters:&#10;    string $encodedText - utf-8 QP text&#10;    integer $maxLength - Find the last character boundary prior to this length;;d4,1885;;b1,0;;m0;;estring $encodedText;;pinteger $maxLength;;p">
+</treenode>
+<treenode node="validateAddress;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f18;1057;5;1146;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    validateAddress($address, $patternselect = null)&#10;&#10;Description&#10;     Check that a string looks like an email address.&#10;&#10;Parameters:&#10;    string $address - The email address to check&#10;    string|callable $patternselect - A selector for the validation pattern to use :;;d4,1058;;b1,5;;m0;;estring $address;;pstring|callable $patternselect;;p">
+</treenode>
+<treenode node="wrapText;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;1785;5;1873;;;;vpos;;v;;astring;;r&#10;Definition&#10;    wrapText($message, $length, $qp_mode = false)&#10;&#10;Description&#10;     Word-wrap message. For use with mailers that do not automatically perform wrapping and for quoted-printable encoded messages. Original written by philippe.&#10;&#10;Parameters:&#10;    string $message - The message to wrap&#10;    integer $length - The line length to wrap to&#10;    boolean $qp_mode - Whether to run in Quoted-Printable mode;;d4,1786;;b1,0;;m0;;estring $message;;pinteger $length;;pboolean $qp_mode;;p">
+</treenode>
+</treenode>
+<treenode node="phpmailerException;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f0;3914;1;3925;;;;vpos;;v;;aException;;c;;r&#10;Definition&#10;    class phpmailerException extends Exception&#10;&#10;Description&#10;     PHPMailer exception handler;;d0,3915;;b0,0;;m0;;e">
+<treenode node="errorMessage;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php;f11;3920;5;3924;;;;vpos;;v;;astring;;r&#10;Definition&#10;    errorMessage()&#10;&#10;Description&#10;     Prettify error message output;;d4,3921;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="PHPMailerLangTest;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerLangTest.php;f0;21;1;75;;;;vpos;;v;;aPHPUnit_Framework_TestCase;;c;;r&#10;Definition&#10;    class PHPMailerLangTest extends PHPUnit_Framework_TestCase&#10;&#10;Description&#10;     PHPMailer - PHP email transport unit test class Performs authentication tests;;d0,22;;b0,0;;m0;;e">
+<treenode node="setUp;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerLangTest.php;f11;38;5;41;;;;vpos;;v;;a;;r&#10;Definition&#10;    setUp()&#10;&#10;Description&#10;     Run before each test is started.;;d4,39;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testTranslations;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerLangTest.php;f11;48;5;74;;;;vpos;;v;;a;;r&#10;Definition&#10;    testTranslations()&#10;&#10;Description&#10;     Test language files for missing and excess translations All languages are compared with English;;d4,49;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="PHPMailerOAuth;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauth.php;f0;25;1;195;;;;vpos;;v;;aPHPMailer;;c;;r&#10;Definition&#10;    class PHPMailerOAuth extends PHPMailer&#10;&#10;Description&#10;     PHPMailerOAuth - PHPMailer subclass adding OAuth support.;;d0,26;;b0,0;;m0;;e">
+<treenode node="getOAUTHInstance;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauth.php;f11;62;5;73;;;;vpos;;v;;aPHPMailerOAuthGoogle;;r&#10;Definition&#10;    getOAUTHInstance()&#10;&#10;Description&#10;     Get a PHPMailerOAuthGoogle instance to use.;;d4,63;;b1,0;;m0;;e">
+</treenode>
+<treenode node="smtpConnect;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauth.php;f11;83;5;194;;;;vpos;;v;;abool;;r&#10;Definition&#10;    smtpConnect($options = array())&#10;&#10;Description&#10;     Initiate a connection to an SMTP server. Overrides the original smtpConnect method to add support for OAuth.&#10;&#10;Parameters:&#10;    array $options - An array of options compatible with stream_context_create();;d4,84;;b1,0;;m0;;earray $options;;p">
+</treenode>
+</treenode>
+<treenode node="PHPMailerOAuthGoogle;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauthgoogle.php;f0;26;1;76;;;;vpos;;v;;a;;r&#10;Definition&#10;    class PHPMailerOAuthGoogle&#10;&#10;Description&#10;     PHPMailerOAuthGoogle - Wrapper for League OAuth2 Google provider.;;d0,27;;b0,0;;m0;;e">
+<treenode node="__construct;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauthgoogle.php;f11;39;5;49;;;;vpos;;v;;a;;r&#10;Definition&#10;    __construct(&#10;        $UserEmail,&#10;        $ClientSecret,&#10;        $ClientId,&#10;        $RefreshToken&#10;    )&#10;&#10;Description&#10;     &#10;&#10;Parameters:&#10;    string $UserEmail&#10;    string $ClientSecret&#10;    string $ClientId&#10;    string $RefreshToken;;d6,44;;b1,0;;m0;;estring $UserEmail;;pstring $ClientSecret;;pstring $ClientId;;pstring $RefreshToken;;p">
+</treenode>
+<treenode node="getGrant;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauthgoogle.php;f12;59;5;62;;;;vpos;;v;;a;;r;;d4,60;;b3,0;;m0;;e">
+</treenode>
+<treenode node="getOauth64;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauthgoogle.php;f11;71;5;75;;;;vpos;;v;;a;;r;;d4,72;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getProvider;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauthgoogle.php;f12;51;5;57;;;;vpos;;v;;a;;r;;d4,52;;b3,0;;m0;;e">
+</treenode>
+<treenode node="getToken;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauthgoogle.php;f12;64;5;69;;;;vpos;;v;;a;;r;;d4,65;;b3,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="PHPMailerTest;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f0;21;1;2139;;;;vpos;;v;;aPHPUnit_Framework_TestCase;;c;;r&#10;Definition&#10;    class PHPMailerTest extends PHPUnit_Framework_TestCase&#10;&#10;Description&#10;     PHPMailer - PHP email transport unit test class Performs authentication tests;;d0,22;;b0,0;;m0;;e">
+<treenode node="INCLUDE_DIR;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f9;62;21;62;;;;vposstring;;v;;a;;r&apos;../&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="addChange;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;257;5;260;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    addChange($sName, $sNewValue)&#10;&#10;Description&#10;     Add a changelog entry.&#10;&#10;Parameters:&#10;    string $sName&#10;    string $sNewValue;;d4,258;;b1,0;;m0;;estring $sName;;pstring $sNewValue;;p">
+</treenode>
+<treenode node="addNote;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;268;5;271;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    addNote($sValue)&#10;&#10;Description&#10;     Adds a simple note to the message.&#10;&#10;Parameters:&#10;    string $sValue;;d4,269;;b1,0;;m0;;estring $sValue;;p">
+</treenode>
+<treenode node="buildBody;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;140;5;212;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    buildBody()&#10;&#10;Description&#10;     Build the body of the message in the appropriate format.;;d4,141;;b1,0;;m0;;e">
+</treenode>
+<treenode node="checkChanges;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;219;5;248;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    checkChanges()&#10;&#10;Description&#10;     Check which default settings have been changed for the report.;;d4,220;;b1,0;;m0;;e">
+</treenode>
+<treenode node="setAddress;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;281;5;292;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    setAddress($sAddress, $sName = &apos;&apos;, $sType = &apos;to&apos;)&#10;&#10;Description&#10;     Adds all of the addresses&#10;&#10;Parameters:&#10;    string $sAddress&#10;    string $sName&#10;    string $sType;;d4,282;;b1,0;;m0;;estring $sAddress;;pstring $sName;;pstring $sType;;p">
+</treenode>
+<treenode node="setUp;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;67;5;115;;;;vpos;;v;;a;;r&#10;Definition&#10;    setUp()&#10;&#10;Description&#10;     Run before each test is started.;;d4,68;;b1,0;;m0;;e">
+</treenode>
+<treenode node="tearDown;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;120;5;131;;;;vpos;;v;;a;;r&#10;Definition&#10;    tearDown()&#10;&#10;Description&#10;     Run after each test is completed.;;d4,121;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testAddressEscaping;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1557;5;1567;;;;vpos;;v;;a;;r&#10;Definition&#10;    testAddressEscaping()&#10;&#10;Description&#10;     Test address escaping.;;d4,1558;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testAddressing;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1429;5;1455;;;;vpos;;v;;a;;r&#10;Definition&#10;    testAddressing()&#10;&#10;Description&#10;     Test addressing.;;d4,1430;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testAddressSplitting;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1460;5;1552;;;;vpos;;v;;a;;r&#10;Definition&#10;    testAddressSplitting()&#10;&#10;Description&#10;     Test RFC822 address splitting.;;d4,1461;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testAltBody;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1148;5;1160;;;;vpos;;v;;a;;r&#10;Definition&#10;    testAltBody()&#10;&#10;Description&#10;     Simple multipart/alternative test.;;d4,1149;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testAltBodyAttachment;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1165;5;1179;;;;vpos;;v;;a;;r&#10;Definition&#10;    testAltBodyAttachment()&#10;&#10;Description&#10;     Simple HTML and attachment test;;d4,1166;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testAuthCRAMMD5;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;310;5;326;;;;vpos;;v;;a;;r&#10;Definition&#10;    testAuthCRAMMD5()&#10;&#10;Description&#10;     Test CRAM-MD5 authentication. Needs a connection to a server that supports this auth mechanism, so commented out by default;;d4,311;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testBadSMTP;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1916;5;1921;;;;vpos;;v;;a;;r;;d4,1917;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testBase64;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1637;5;1643;;;;vpos;;v;;a;;r&#10;Definition&#10;    testBase64()&#10;&#10;Description&#10;     Test base-64 encoding.;;d4,1638;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testBCCAddressing;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1590;5;1597;;;;vpos;;v;;a;;r&#10;Definition&#10;    testBCCAddressing()&#10;&#10;Description&#10;     Test BCC-only addressing.;;d4,1591;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testBootstrap;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;298;5;304;;;;vpos;;v;;a;;r&#10;Definition&#10;    testBootstrap()&#10;&#10;Description&#10;     Check that we have loaded default test params. Pretty much everything will fail due to unset recipient if this is not done.;;d4,299;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testConfirmReadingTo;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1953;5;1978;;;;vpos;;v;;a;;r&#10;Definition&#10;    testConfirmReadingTo()&#10;&#10;Description&#10;     Tests setting and retrieving ConfirmReadingTo address, also known as &quot;read receipt&quot; address.;;d4,1954;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testConvertEncoding;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1983;5;2026;;;;vpos;;v;;a;;r&#10;Definition&#10;    testConvertEncoding()&#10;&#10;Description&#10;     Tests CharSet and Unicode -&gt; ASCII conversions for addresses with IDN.;;d4,1984;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testCustomHeaderGetter;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1926;5;1948;;;;vpos;;v;;a;;r&#10;Definition&#10;    testCustomHeaderGetter()&#10;&#10;Description&#10;     Tests the Custom header getter;;d4,1927;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testCustomValidator;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;664;5;706;;;;vpos;;v;;a;;r&#10;Definition&#10;    testCustomValidator()&#10;&#10;Description&#10;     Test injecting a custom validator.;;d4,665;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testDenialOfServiceAttack;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1387;5;1394;;;;vpos;;v;;a;;r&#10;Definition&#10;    testDenialOfServiceAttack()&#10;&#10;Description&#10;     Tests this denial of service attack:;;d4,1388;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testDenialOfServiceAttack2;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1402;5;1408;;;;vpos;;v;;a;;r&#10;Definition&#10;    testDenialOfServiceAttack2()&#10;&#10;Description&#10;     Tests this denial of service attack:;;d4,1403;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testDKIM;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1785;5;1807;;;;vpos;;v;;a;;r&#10;Definition&#10;    testDKIM()&#10;&#10;Description&#10;     DKIM Signing tests.;;d4,1786;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testDuplicateIDNRemoved;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;2031;5;2070;;;;vpos;;v;;a;;r&#10;Definition&#10;    testDuplicateIDNRemoved()&#10;&#10;Description&#10;     Tests removal of duplicate recipients and reply-tos.;;d4,2032;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testEmbeddedImage;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1088;5;1112;;;;vpos;;v;;a;;r&#10;Definition&#10;    testEmbeddedImage()&#10;&#10;Description&#10;     An embedded attachment test.;;d4,1089;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testEmptyBody;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1300;5;1310;;;;vpos;;v;;a;;r&#10;Definition&#10;    testEmptyBody()&#10;&#10;Description&#10;     Test sending an empty body.;;d4,1301;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testEncodings;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1602;5;1632;;;;vpos;;v;;a;;r&#10;Definition&#10;    testEncodings()&#10;&#10;Description&#10;     Encoding and charset tests.;;d4,1603;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testError;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1413;5;1424;;;;vpos;;v;;a;;r&#10;Definition&#10;    testError()&#10;&#10;Description&#10;     Test error handling.;;d4,1414;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testHtml;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;845;5;868;;;;vpos;;v;;a;;r&#10;Definition&#10;    testHtml()&#10;&#10;Description&#10;     Send an HTML message.;;d4,846;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testHTMLAttachment;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1017;5;1035;;;;vpos;;v;;a;;r&#10;Definition&#10;    testHTMLAttachment()&#10;&#10;Description&#10;     Simple HTML and attachment test;;d4,1018;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testHtmlIso8859;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;873;5;899;;;;vpos;;v;;a;;r&#10;Definition&#10;    testHtmlIso8859()&#10;&#10;Description&#10;     Send a message containing ISO-8859-1 text.;;d4,874;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testHTMLMultiAttachment;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1065;5;1083;;;;vpos;;v;;a;;r&#10;Definition&#10;    testHTMLMultiAttachment()&#10;&#10;Description&#10;     Simple HTML and multiple attachment test;;d4,1066;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testHTMLStringEmbedNoName;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1040;5;1060;;;;vpos;;v;;a;;r&#10;Definition&#10;    testHTMLStringEmbedNoName()&#10;&#10;Description&#10;     Test embedded image without a name;;d4,1041;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testHtmlUtf8;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;904;5;928;;;;vpos;;v;;a;;r&#10;Definition&#10;    testHtmlUtf8()&#10;&#10;Description&#10;     Send a message containing multilingual UTF-8 text.;;d4,905;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testIcal;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1184;5;1225;;;;vpos;;v;;a;;r&#10;Definition&#10;    testIcal()&#10;&#10;Description&#10;     iCal event test.;;d4,1185;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testLineBreaks;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1812;5;1823;;;;vpos;;v;;a;;r&#10;Definition&#10;    testLineBreaks()&#10;&#10;Description&#10;     Test line break reformatting.;;d4,1813;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testLineLength;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1828;5;1848;;;;vpos;;v;;a;;r&#10;Definition&#10;    testLineLength()&#10;&#10;Description&#10;     Test line length detection;;d4,1829;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testLongBody;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1315;5;1338;;;;vpos;;v;;a;;r&#10;Definition&#10;    testLongBody()&#10;&#10;Description&#10;     Test constructing a multipart message that contains lines that are too long for RFC compliance.;;d4,1316;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testLowPriority;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;755;5;765;;;;vpos;;v;;a;;r&#10;Definition&#10;    testLowPriority()&#10;&#10;Description&#10;     Test low priority.;;d4,756;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testMailSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1280;5;1295;;;;vpos;;v;;a;;r&#10;Definition&#10;    testMailSend()&#10;&#10;Description&#10;     Test sending using PHP mail() function.;;d4,1281;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testMessageID;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1853;5;1873;;;;vpos;;v;;a;;r&#10;Definition&#10;    testMessageID()&#10;&#10;Description&#10;     Test setting and retrieving message ID.;;d4,1854;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testMIMEStructure;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1572;5;1585;;;;vpos;;v;;a;;r&#10;Definition&#10;    testMIMEStructure()&#10;&#10;Description&#10;     Test MIME structure assembly.;;d4,1573;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testMiscellaneous;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1878;5;1915;;;;vpos;;v;;a;;r&#10;Definition&#10;    testMiscellaneous()&#10;&#10;Description&#10;     Miscellaneous calls to improve test coverage and some small tests.;;d4,1879;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testMsgHTML;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;989;5;1012;;;;vpos;;v;;a;;r&#10;Definition&#10;    testMsgHTML()&#10;&#10;Description&#10;     Test simple message builder and html2text converters;;d4,990;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testMultiEmbeddedImage;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1117;5;1143;;;;vpos;;v;;a;;r&#10;Definition&#10;    testMultiEmbeddedImage()&#10;&#10;Description&#10;     An embedded attachment test.;;d4,1118;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testMultiplePlainFileAttachment;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;770;5;787;;;;vpos;;v;;a;;r&#10;Definition&#10;    testMultiplePlainFileAttachment()&#10;&#10;Description&#10;     Simple plain file attachment test.;;d4,771;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testMultipleSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1230;5;1242;;;;vpos;;v;;a;;r&#10;Definition&#10;    testMultipleSend()&#10;&#10;Description&#10;     Test sending multiple messages with separate connections.;;d4,1231;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testPlainStringAttachment;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;792;5;805;;;;vpos;;v;;a;;r&#10;Definition&#10;    testPlainStringAttachment()&#10;&#10;Description&#10;     Simple plain string attachment test.;;d4,793;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testPlainUtf8;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;968;5;984;;;;vpos;;v;;a;;r&#10;Definition&#10;    testPlainUtf8()&#10;&#10;Description&#10;     Send a message containing multilingual UTF-8 text.;;d4,969;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testPopBeforeSmtpBad;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;2097;5;2112;;;;vpos;;v;;a;;r&#10;Definition&#10;    testPopBeforeSmtpBad()&#10;&#10;Description&#10;     Use a fake POP3 server to test POP-before-SMTP auth with a known-bad login.;;d4,2098;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testPopBeforeSmtpGood;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;2076;5;2091;;;;vpos;;v;;a;;r&#10;Definition&#10;    testPopBeforeSmtpGood()&#10;&#10;Description&#10;     Use a fake POP3 server to test POP-before-SMTP auth. With a known-good login;;d4,2077;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testQmailSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1261;5;1275;;;;vpos;;v;;a;;r&#10;Definition&#10;    testQmailSend()&#10;&#10;Description&#10;     Test sending using Qmail.;;d4,1262;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testQuotedPrintable;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;810;5;840;;;;vpos;;v;;a;;r&#10;Definition&#10;    testQuotedPrintable()&#10;&#10;Description&#10;     Plain quoted-printable message.;;d4,811;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testSendmailSend;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1247;5;1256;;;;vpos;;v;;a;;r&#10;Definition&#10;    testSendmailSend()&#10;&#10;Description&#10;     Test sending using SendMail.;;d4,1248;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testShortBody;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1343;5;1363;;;;vpos;;v;;a;;r&#10;Definition&#10;    testShortBody()&#10;&#10;Description&#10;     Test constructing a message that does NOT contain lines that are too long for RFC compliance.;;d4,1344;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testSigning;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1648;5;1696;;;;vpos;;v;;a;;r&#10;Definition&#10;    testSigning()&#10;&#10;Description&#10;     S/MIME Signing tests (self-signed).;;d4,1649;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testSigningWithCA;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1705;5;1779;;;;vpos;;v;;a;;r&#10;Definition&#10;    testSigningWithCA()&#10;&#10;Description&#10;     S/MIME Signing tests using a CA chain cert. To test that a generated message is signed correctly, save the message in a file and use openssl along with the certs generated by this script: `openssl smime -verify -in signed.eml -signer certfile.pem -CAfile cacertfile.pem`;;d4,1706;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testSmtpConnect;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;2118;5;2138;;;;vpos;;v;;a;;r&#10;Definition&#10;    testSmtpConnect()&#10;&#10;Description&#10;     Test SMTP host connections. This test can take a long time, so run it last;;d4,2119;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testSmtpKeepAlive;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;1368;5;1381;;;;vpos;;v;;a;;r&#10;Definition&#10;    testSmtpKeepAlive()&#10;&#10;Description&#10;     Test keepalive (sending multiple messages in a single connection).;;d4,1369;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testUtf8WithEmbeddedImage;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;933;5;963;;;;vpos;;v;;a;;r&#10;Definition&#10;    testUtf8WithEmbeddedImage()&#10;&#10;Description&#10;     Send a message containing multilingual UTF-8 text with an embedded image.;;d4,934;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testValidate;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;333;5;659;;;;vpos;;v;;a;;r&#10;Definition&#10;    testValidate()&#10;&#10;Description&#10;     Test email address validation. Test addresses obtained from http://isemail.info Some failing cases commented out that are apparently up for debate!;;d4,334;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testWordWrap;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;711;5;728;;;;vpos;;v;;a;;r&#10;Definition&#10;    testWordWrap()&#10;&#10;Description&#10;     Word-wrap an ASCII message.;;d4,712;;b1,0;;m0;;e">
+</treenode>
+<treenode node="testWordWrapMultibyte;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php;f11;733;5;750;;;;vpos;;v;;a;;r&#10;Definition&#10;    testWordWrapMultibyte()&#10;&#10;Description&#10;     Word-wrap a multibyte message.;;d4,734;;b1,0;;m0;;e">
+</treenode>
+</treenode>
+<treenode node="POP3;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f0;29;1;406;;;;vpos;;v;;a;;r&#10;Definition&#10;    class POP3&#10;&#10;Description&#10;     PHPMailer POP-Before-SMTP Authentication Class. Specifically for PHPMailer to use for RFC1939 POP-before-SMTP authentication. Does not support APOP.;;d0,30;;b0,0;;m0;;e">
+<treenode node="CRLF;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f9;127;14;127;;;;vpos;;v;;a;;r&#10;Description&#10;     Line break constant;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="authorise;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f11;164;5;196;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    authorise($host, $port = false, $timeout = false, $username = &apos;&apos;, $password = &apos;&apos;, $debug_level = 0)&#10;&#10;Description&#10;     Authenticate with a POP3 server. A connect, login, disconnect sequence appropriate for POP-before SMTP authorisation.&#10;&#10;Parameters:&#10;    string $host - The hostname to connect to&#10;    integer|boolean $port - The port number to connect to&#10;    integer|boolean $timeout - The timeout value&#10;    string $username&#10;    string $password&#10;    integer $debug_level;;d4,165;;b1,0;;m0;;estring $host;;pinteger|boolean $port;;pinteger|boolean $timeout;;pstring $username;;pstring $password;;pinteger $debug_level;;p">
+</treenode>
+<treenode node="catchWarning;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f14;396;5;405;;;;vpos;;v;;a;;r&#10;Definition&#10;    catchWarning($errno, $errstr, $errfile, $errline)&#10;&#10;Description&#10;     POP3 connection error handler.&#10;&#10;Parameters:&#10;    integer $errno&#10;    string $errstr&#10;    string $errfile&#10;    integer $errline;;d4,397;;b2,0;;m0;;einteger $errno;;pstring $errstr;;pstring $errfile;;pinteger $errline;;p">
+</treenode>
+<treenode node="checkResponse;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f14;347;5;359;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    checkResponse($string)&#10;&#10;Description&#10;     Checks the POP3 server response. Looks for for +OK or -ERR.&#10;&#10;Parameters:&#10;    string $string;;d4,348;;b2,0;;m0;;estring $string;;p">
+</treenode>
+<treenode node="connect;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f11;206;5;255;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    connect($host, $port = false, $tval = 30)&#10;&#10;Description&#10;     Connect to a POP3 server.&#10;&#10;Parameters:&#10;    string $host&#10;    integer|boolean $port&#10;    integer $tval;;d4,207;;b1,0;;m0;;estring $host;;pinteger|boolean $port;;pinteger $tval;;p">
+</treenode>
+<treenode node="disconnect;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f11;295;5;305;;;;vpos;;v;;a;;r&#10;Definition&#10;    disconnect()&#10;&#10;Description&#10;     Disconnect from the POP3 server.;;d4,296;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getErrors;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f11;383;5;386;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getErrors()&#10;&#10;Description&#10;     Get an array of error messages, if any.;;d4,384;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getResponse;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f14;314;5;321;;;;vpos;;v;;astring;;r&#10;Definition&#10;    getResponse($size = 128)&#10;&#10;Description&#10;     Get a response from the POP3 server. $size is the maximum number of bytes to retrieve&#10;&#10;Parameters:&#10;    integer $size;;d4,315;;b2,0;;m0;;einteger $size;;p">
+</treenode>
+<treenode node="login;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f11;265;5;289;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    login($username = &apos;&apos;, $password = &apos;&apos;)&#10;&#10;Description&#10;     Log in to the POP3 server. Does not support APOP (RFC 2828, 4949).&#10;&#10;Parameters:&#10;    string $username&#10;    string $password;;d4,266;;b1,0;;m0;;estring $username;;pstring $password;;p">
+</treenode>
+<treenode node="popBeforeSmtp;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f18;139;5;149;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    popBeforeSmtp(&#10;        $host,&#10;        $port = false,&#10;        $timeout = false,&#10;        $username = &apos;&apos;,&#10;        $password = &apos;&apos;,&#10;        $debug_level = 0&#10;    )&#10;&#10;Description&#10;     Simple static wrapper for all-in-one POP before SMTP&#10;&#10;Parameters:&#10;     $host&#10;    integer|boolean $port - The port number to connect to&#10;    integer|boolean $timeout - The timeout value&#10;    string $username&#10;    string $password&#10;    integer $debug_level;;d6,146;;b1,5;;m0;;e $host;;pinteger|boolean $port;;pinteger|boolean $timeout;;pstring $username;;pstring $password;;pinteger $debug_level;;p">
+</treenode>
+<treenode node="sendString;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f14;329;5;338;;;;vpos;;v;;ainteger;;r&#10;Definition&#10;    sendString($string)&#10;&#10;Description&#10;     Send raw data to the POP3 server.&#10;&#10;Parameters:&#10;    string $string;;d4,330;;b2,0;;m0;;estring $string;;p">
+</treenode>
+<treenode node="setError;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php;f14;367;5;377;;;;vpos;;v;;a;;r&#10;Definition&#10;    setError($error)&#10;&#10;Description&#10;     Add an error to the internal error store. Also display debug output if it&apos;s enabled.&#10;&#10;Parameters:&#10;     $error;;d4,368;;b2,0;;m0;;e $error;;p">
+</treenode>
+</treenode>
+<treenode node="SMTP;PHP:Class Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f0;26;1;1191;;;;vpos;;v;;a;;r&#10;Definition&#10;    class SMTP&#10;&#10;Description&#10;     PHPMailer RFC821 SMTP email transport class. Implements RFC 821 SMTP commands and provides some utility methods for sending mail to an SMTP server.;;d0,27;;b0,0;;m0;;e">
+<treenode node="CRLF;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;38;14;38;;;;vposstring;;v;;a;;r&quot;\r\n&quot;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEBUG_CLIENT;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;60;22;60;;;;vpos;;v;;a;;r&#10;Description&#10;     Debug level to show client -&gt; server messages;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEBUG_CONNECTION;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;70;26;70;;;;vpos;;v;;a;;r&#10;Description&#10;     Debug level to show connection status, client -&gt; server and server -&gt; client messages;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEBUG_LOWLEVEL;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;75;24;75;;;;vpos;;v;;a;;r&#10;Description&#10;     Debug level to show all messages;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEBUG_OFF;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;55;19;55;;;;vpos;;v;;a;;r&#10;Description&#10;     Debug level for no output;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEBUG_SERVER;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;65;22;65;;;;vpos;;v;;a;;r&#10;Description&#10;     Debug level to show client -&gt; server and server -&gt; client messages;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DEFAULT_SMTP_PORT;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;44;27;44;;;;vposinteger;;v;;a;;r25;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="MAX_LINE_LENGTH;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;50;25;50;;;;vposinteger;;v;;a;;r998;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="VERSION;PHP:PHP Word;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f9;32;17;32;;;;vposstring;;v;;a;;r&apos;5.2.16&apos;;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="authenticate;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;372;5;531;;;;vpos;;v;;abool;;r&#10;Definition&#10;    authenticate(&#10;        $username,&#10;        $password,&#10;        $authtype = null,&#10;        $realm = &apos;&apos;,&#10;        $workstation = &apos;&apos;,&#10;        $OAuth = null&#10;    )&#10;&#10;Description&#10;     Perform SMTP authentication. Must be run after hello().&#10;&#10;Parameters:&#10;    string $username - The user name&#10;    string $password - The password&#10;    string $authtype - The auth type (PLAIN, LOGIN, NTLM, CRAM-MD5, XOAUTH2)&#10;    string $realm - The auth realm for NTLM&#10;    string $workstation - The auth workstation for NTLM&#10;    null|OAuth $OAuth - An optional OAuth instance (&#10;&#10;Return:&#10;   True if successfully authenticated;;d6,379;;b1,0;;m0;;estring $username;;pstring $password;;pstring $authtype;;pstring $realm;;pstring $workstation;;pnull|OAuth $OAuth;;p">
+</treenode>
+<treenode node="client_send;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;974;5;978;;;;vpos;;v;;ainteger;;r&#10;Definition&#10;    client_send($data)&#10;&#10;Description&#10;     Send raw data to the server.&#10;&#10;Parameters:&#10;    string $data - The data to send&#10;&#10;Return:&#10;   |boolean The number of bytes sent to the server or false on error;;d4,975;;b1,0;;m0;;estring $data;;p">
+</treenode>
+<treenode node="close;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;599;5;610;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    close()&#10;&#10;Description&#10;     Close the socket and clean up the state of the class. Don&apos;t use this function without first trying to use QUIT.;;d4,600;;b1,0;;m0;;e">
+</treenode>
+<treenode node="connect;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;246;5;326;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    connect($host, $port = null, $timeout = 30, $options = array())&#10;&#10;Description&#10;     Connect to an SMTP server.&#10;&#10;Parameters:&#10;    string $host - SMTP server IP or host name&#10;    integer $port - The port number to connect to&#10;    integer $timeout - How long to wait for the connection to open&#10;    array $options - An array of options for stream_context_create();;d4,247;;b1,0;;m0;;estring $host;;pinteger $port;;pinteger $timeout;;parray $options;;p">
+</treenode>
+<treenode node="connected;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;574;5;590;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    connected()&#10;&#10;Description&#10;     Check connection state.&#10;&#10;Return:&#10;   True if connected;;d4,575;;b1,0;;m0;;e">
+</treenode>
+<treenode node="data;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;624;5;701;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    data($msg_data)&#10;&#10;Description&#10;     Send an SMTP DATA command. Issues a data command and sends the msg_data to the server, finializing the mail transaction. $msg_data is the message that is to be send with the headers. Each header needs to be on a single line followed by a &lt;CRLF&gt; with the message headers and the message body being separated by and additional &lt;CRLF&gt;. Implements rfc 821: DATA &lt;CRLF&gt;&#10;&#10;Parameters:&#10;    string $msg_data - Message data to send;;d4,625;;b1,0;;m0;;estring $msg_data;;p">
+</treenode>
+<treenode node="edebug;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f14;201;5;235;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    edebug($str, $level = 0)&#10;&#10;Description&#10;     Output debugging info via a user-selected method.&#10;&#10;Parameters:&#10;    string $str - Debug string to output&#10;    integer $level - The debug level of this message;s see DEBUG_* constants;;d4,202;;b2,0;;m0;;estring $str;;pinteger $level;;p">
+</treenode>
+<treenode node="get_lines;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f14;1060;5;1101;;;;vpos;;v;;astring;;r&#10;Definition&#10;    get_lines()&#10;&#10;Description&#10;     Read the SMTP server&apos;s response. Either before eof or socket timeout occurs on the operation. With SMTP we can tell if we have more lines to read if the 4th character is &apos;-&apos; symbol. If it is a space then we don&apos;t need to read anything else.;;d4,1061;;b2,0;;m0;;e">
+</treenode>
+<treenode node="getDebugLevel;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1169;5;1172;;;;vpos;;v;;ainteger;;r&#10;Definition&#10;    getDebugLevel()&#10;&#10;Description&#10;     Get debug output level.;;d4,1170;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getDebugOutput;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1151;5;1154;;;;vpos;;v;;astring;;r&#10;Definition&#10;    getDebugOutput()&#10;&#10;Description&#10;     Get debug output method.;;d4,1152;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getError;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;985;5;988;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getError()&#10;&#10;Description&#10;     Get the latest error.;;d4,986;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getLastReply;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1046;5;1049;;;;vpos;;v;;astring;;r&#10;Definition&#10;    getLastReply()&#10;&#10;Description&#10;     Get the last reply from the server.;;d4,1047;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getServerExt;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1019;5;1039;;;;vpos;;v;;amixed;;r&#10;Definition&#10;    getServerExt($name)&#10;&#10;Description&#10;     A multipurpose method The method works in three ways, dependent on argument value and current state 1. HELO/EHLO was not sent - returns null and set up $this-&gt;error 2. HELO was sent $name = &apos;HELO&apos;: returns server name $name = &apos;EHLO&apos;: returns boolean false $name = any string: returns null and set up $this-&gt;error 3. EHLO was sent $name = &apos;HELO&apos;|&apos;EHLO&apos;: returns server name $name = any string: if extension $name exists, returns boolean True or its options. Otherwise returns boolean False In other words, one can use this method to detect 3 conditions: - null returned: handshake was not or we don&apos;t know about ext (refer to $this-&gt;error) - false returned: the requested feature exactly not exists - positive value returned: the requested feature exists&#10;&#10;Parameters:&#10;    string $name - Name of SMTP extension or &apos;HELO&apos;|&apos;EHLO&apos;;;d4,1020;;b1,0;;m0;;estring $name;;p">
+</treenode>
+<treenode node="getServerExtList;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;995;5;998;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    getServerExtList()&#10;&#10;Description&#10;     Get SMTP extensions available on the server&#10;&#10;Return:&#10;   |null;;d4,996;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getTimeout;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1187;5;1190;;;;vpos;;v;;ainteger;;r&#10;Definition&#10;    getTimeout()&#10;&#10;Description&#10;     Get SMTP timeout.;;d4,1188;;b1,0;;m0;;e">
+</treenode>
+<treenode node="getVerp;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1116;5;1119;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    getVerp()&#10;&#10;Description&#10;     Get VERP address generation mode.;;d4,1117;;b1,0;;m0;;e">
+</treenode>
+<treenode node="hello;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;713;5;717;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    hello($host = &apos;&apos;)&#10;&#10;Description&#10;     Send an SMTP HELO or EHLO command. Used to identify the sending server to the receiving server. This makes sure that client and server are in a known state. Implements RFC 821: HELO &lt;SP&gt; &lt;domain&gt; &lt;CRLF&gt; and RFC 2821 EHLO.&#10;&#10;Parameters:&#10;    string $host - The host name or IP to connect to;;d4,714;;b1,0;;m0;;estring $host;;p">
+</treenode>
+<treenode node="hmac;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f14;542;5;567;;;;vpos;;v;;astring;;r&#10;Definition&#10;    hmac($data, $key)&#10;&#10;Description&#10;     Calculate an MD5 HMAC hash. Works like hash_hmac(&apos;md5&apos;, $data, $key) in case that function is not available&#10;&#10;Parameters:&#10;    string $data - The data to hash&#10;    string $key - The key to hash with;;d4,543;;b2,0;;m0;;estring $data;;pstring $key;;p">
+</treenode>
+<treenode node="mail;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;793;5;801;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    mail($from)&#10;&#10;Description&#10;     Send an SMTP MAIL command. Starts a mail transaction from the email address specified in $from. Returns true if successful or false otherwise. If True the mail transaction is started and then one or more recipient commands may be called followed by a data command. Implements rfc 821: MAIL &lt;SP&gt; FROM:&lt;reverse-path&gt; &lt;CRLF&gt;&#10;&#10;Parameters:&#10;    string $from - Source address of this message;;d4,794;;b1,0;;m0;;estring $from;;p">
+</treenode>
+<treenode node="noop;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;947;5;950;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    noop()&#10;&#10;Description&#10;     Send an SMTP NOOP command. Used to keep keep-alives alive, doesn&apos;t actually do anything;;d4,948;;b1,0;;m0;;e">
+</treenode>
+<treenode node="parseHelloFields;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f14;746;5;780;;;;vpos;;v;;a;;r&#10;Definition&#10;    parseHelloFields($type)&#10;&#10;Description&#10;     Parse a reply to HELO/EHLO command to discover server extensions. In case of HELO, the only parameter that can be discovered is a server name.&#10;&#10;Parameters:&#10;    string $type - - &apos;HELO&apos; or &apos;EHLO&apos;;;d4,747;;b2,0;;m0;;estring $type;;p">
+</treenode>
+<treenode node="quit;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;811;5;820;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    quit($close_on_error = true)&#10;&#10;Description&#10;     Send an SMTP QUIT command. Closes the socket if there is no error or the $close_on_error argument is true. Implements from rfc 821: QUIT &lt;CRLF&gt;&#10;&#10;Parameters:&#10;    boolean $close_on_error - Should the connection close if an error occurs?;;d4,812;;b1,0;;m0;;eboolean $close_on_error;;p">
+</treenode>
+<treenode node="recipient;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;831;5;838;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    recipient($address)&#10;&#10;Description&#10;     Send an SMTP RCPT command. Sets the TO argument to $toaddr. Returns true if the recipient was accepted false if it was rejected. Implements from rfc 821: RCPT &lt;SP&gt; TO:&lt;forward-path&gt; &lt;CRLF&gt;&#10;&#10;Parameters:&#10;    string $address - The address the message is being sent to;;d4,832;;b1,0;;m0;;estring $address;;p">
+</treenode>
+<treenode node="reset;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;847;5;850;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    reset()&#10;&#10;Description&#10;     Send an SMTP RSET command. Abort any transaction that is currently in progress. Implements rfc 821: RSET &lt;CRLF&gt;&#10;&#10;Return:&#10;   True on success;;d4,848;;b1,0;;m0;;e">
+</treenode>
+<treenode node="sendAndMail;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;925;5;928;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    sendAndMail($from)&#10;&#10;Description&#10;     Send an SMTP SAML command. Starts a mail transaction from the email address specified in $from. Returns true if successful or false otherwise. If True the mail transaction is started and then one or more recipient commands may be called followed by a data command. This command will send the message to the users terminal if they are logged in and send them an email. Implements rfc 821: SAML &lt;SP&gt; FROM:&lt;reverse-path&gt; &lt;CRLF&gt;&#10;&#10;Parameters:&#10;    string $from - The address the message is from;;d4,926;;b1,0;;m0;;estring $from;;p">
+</treenode>
+<treenode node="sendCommand;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f14;860;5;910;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    sendCommand($command, $commandstring, $expect)&#10;&#10;Description&#10;     Send a command to an SMTP server and check its return code.&#10;&#10;Parameters:&#10;    string $command - The command name - not sent to the server&#10;    string $commandstring - The actual command to send&#10;    integer|array $expect - One or more expected integer success codes&#10;&#10;Return:&#10;   True on success;;d4,861;;b2,0;;m0;;estring $command;;pstring $commandstring;;pinteger|array $expect;;p">
+</treenode>
+<treenode node="sendHello;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f14;728;5;738;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    sendHello($hello, $host)&#10;&#10;Description&#10;     Send an SMTP HELO or EHLO command. Low-level implementation used by hello()&#10;&#10;Parameters:&#10;    string $hello - The HELO string&#10;    string $host - The hostname to say we are;;d4,729;;b2,0;;m0;;estring $hello;;pstring $host;;p">
+</treenode>
+<treenode node="setDebugLevel;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1160;5;1163;;;;vpos;;v;;a;;r&#10;Definition&#10;    setDebugLevel($level = 0)&#10;&#10;Description&#10;     Set debug output level.&#10;&#10;Parameters:&#10;    integer $level;;d4,1161;;b1,0;;m0;;einteger $level;;p">
+</treenode>
+<treenode node="setDebugOutput;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1142;5;1145;;;;vpos;;v;;a;;r&#10;Definition&#10;    setDebugOutput($method = &apos;echo&apos;)&#10;&#10;Description&#10;     Set debug output method.&#10;&#10;Parameters:&#10;    string|callable $method - The name of the mechanism to use for debugging output, or a callable to handle it;;d4,1143;;b1,0;;m0;;estring|callable $method;;p">
+</treenode>
+<treenode node="setError;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f14;1128;5;1136;;;;vpos;;v;;a;;r&#10;Definition&#10;    setError($message, $detail = &apos;&apos;, $smtp_code = &apos;&apos;, $smtp_code_ex = &apos;&apos;)&#10;&#10;Description&#10;     Set error messages and codes.&#10;&#10;Parameters:&#10;    string $message - The error message&#10;    string $detail - Further detail on the error&#10;    string $smtp_code - An associated SMTP error code&#10;    string $smtp_code_ex - Extended SMTP code;;d4,1129;;b2,0;;m0;;estring $message;;pstring $detail;;pstring $smtp_code;;pstring $smtp_code_ex;;p">
+</treenode>
+<treenode node="setTimeout;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1178;5;1181;;;;vpos;;v;;a;;r&#10;Definition&#10;    setTimeout($timeout = 0)&#10;&#10;Description&#10;     Set SMTP timeout.&#10;&#10;Parameters:&#10;    integer $timeout;;d4,1179;;b1,0;;m0;;einteger $timeout;;p">
+</treenode>
+<treenode node="setVerp;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;1107;5;1110;;;;vpos;;v;;a;;r&#10;Definition&#10;    setVerp($enabled = false)&#10;&#10;Description&#10;     Enable or disable VERP address generation.&#10;&#10;Parameters:&#10;    boolean $enabled;;d4,1108;;b1,0;;m0;;eboolean $enabled;;p">
+</treenode>
+<treenode node="startTLS;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;333;5;358;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    startTLS()&#10;&#10;Description&#10;     Initiate a TLS (encrypted) session.;;d4,334;;b1,0;;m0;;e">
+</treenode>
+<treenode node="turn;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;961;5;966;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    turn()&#10;&#10;Description&#10;     Send an SMTP TURN command. This is an optional command for SMTP that this class does not support. This method is here to make the RFC821 Definition complete for this class and _may_ be implemented in future Implements from rfc 821: TURN &lt;CRLF&gt;;;d4,962;;b1,0;;m0;;e">
+</treenode>
+<treenode node="verify;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php;f11;936;5;939;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    verify($name)&#10;&#10;Description&#10;     Send an SMTP VRFY command.&#10;&#10;Parameters:&#10;    string $name - The name to verify;;d4,937;;b1,0;;m0;;estring $name;;p">
+</treenode>
+</treenode>
+<treenode node="__autoload;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\PHPMailerAutoload.php;f4;44;5;47;;;;vpos;;v;;a;;r&#10;Definition&#10;    __autoload($classname)&#10;&#10;Description&#10;     Fall back to traditional autoload for old PHP versions&#10;&#10;Parameters:&#10;    string $classname - The name of the class to load;;d4,45;;b0,0;;m0;;estring $classname;;p">
+</treenode>
+<treenode node="callbackAction;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\test_callback.php;f0;20;1;33;;;;vpos;;v;;a;;r;;d0,21;;b0,0;;m0;;eresult;;pto;;pcc;;pbcc;;psubject;;pbody;;p">
+</treenode>
+<treenode node="cleanEmails;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\test\test_callback.php;f0;57;1;77;;;;vpos;;v;;a;;r;;d0,58;;b0,0;;m0;;estr;;ptype;;p">
+</treenode>
+<treenode node="HTMLFilter;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;1019;1;1165;;;;vpos;;v;;a;;r;;d0,1020;;b0,0;;m0;;ebody;;ptrans_image_path;;pblock_external_images;;p">
+</treenode>
+<treenode node="PHPMailerAutoload;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\PHPMailerAutoload.php;f0;23;1;30;;;;vpos;;v;;a;;r&#10;Definition&#10;    PHPMailerAutoload($classname)&#10;&#10;Description&#10;     PHPMailer SPL autoloader.&#10;&#10;Parameters:&#10;    string $classname - The name of the class to load;;d0,24;;b0,0;;m0;;estring $classname;;p">
+</treenode>
+<treenode node="tln_body2div;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;796;1;831;;;;vpos;;v;;a;;r;;d0,797;;b0,0;;m0;;eattary;;ptrans_image_path;;p">
+</treenode>
+<treenode node="tln_casenormalize;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;68;1;71;;;;vpos;;v;;avoid;;r&#10;Definition&#10;    tln_casenormalize(&amp;$val)&#10;&#10;Description&#10;     A small helper function to use with array_walk. Modifies a by-ref value and makes it lowercase.&#10;&#10;Parameters:&#10;    string $val - a value passed by-ref&#10;&#10;Return:&#10;   since it modifies a by-ref value;;d0,69;;b0,0;;m0;;estring $val;;p">
+</treenode>
+<treenode node="tln_deent;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;438;1;455;;;;vpos;;v;;aboolean;;r&#10;Definition&#10;    tln_deent(&amp;$attvalue, $regex, $hex = false)&#10;&#10;Description&#10;     Translates entities into literal values so they can be checked.&#10;&#10;Parameters:&#10;    string $attvalue - the by-ref value to check&#10;    string $regex - the regular expression to check against&#10;    boolean $hex - whether the entites are hexadecimal&#10;&#10;Return:&#10;   True or False depending on whether there were matches;;d0,439;;b0,0;;m0;;estring $attvalue;;pstring $regex;;pboolean $hex;;p">
+</treenode>
+<treenode node="tln_defang;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;465;1;482;;;;vpos;;v;;aVoid;;r&#10;Definition&#10;    tln_defang(&amp;$attvalue)&#10;&#10;Description&#10;     This function checks attribute values for entity-encoded values and returns them translated into 8-bit strings so we can run checks on them.&#10;&#10;Parameters:&#10;    string $attvalue - A string to run entity check against&#10;&#10;Return:&#10;   , modifies a reference value;;d0,466;;b0,0;;m0;;estring $attvalue;;p">
+</treenode>
+<treenode node="tln_findnxreg;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;126;1;140;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    tln_findnxreg($body, $offset, $reg)&#10;&#10;Description&#10;     This function takes a PCRE-style regexp and tries to match it within the string.&#10;&#10;Parameters:&#10;    string $body - The string to look for needle in&#10;    integer $offset - Start looking from here&#10;    string $reg - A PCRE-style regex to match&#10;&#10;Return:&#10;   |boolean  Returns a false if no matches found, or an array;;d0,127;;b0,0;;m0;;estring $body;;pinteger $offset;;pstring $reg;;p">
+</treenode>
+<treenode node="tln_findnxstr;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;104;1;111;;;;vpos;;v;;ainteger;;r&#10;Definition&#10;    tln_findnxstr($body, $offset, $needle)&#10;&#10;Description&#10;     This function looks for the next character within a string.	It&apos;s really just a glorified &quot;strpos&quot;, except it catches the failures nicely.&#10;&#10;Parameters:&#10;    string $body - The string to look for needle in&#10;    integer $offset - Start looking from this position&#10;    string $needle - The character/string to look for&#10;&#10;Return:&#10;   location of the next occurrence of the needle, or;;d0,105;;b0,0;;m0;;estring $body;;pinteger $offset;;pstring $needle;;p">
+</treenode>
+<treenode node="tln_fixatts;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;515;1;597;;;;vpos;;v;;aArray;;r&#10;Definition&#10;    tln_fixatts(&#10;    $tagname,&#10;    $attary,&#10;    $rm_attnames,&#10;    $bad_attvals,&#10;    $add_attr_to_tag,&#10;    $trans_image_path,&#10;    $block_external_images&#10;)&#10;&#10;Description&#10;     This function runs various checks against the attributes.&#10;&#10;Parameters:&#10;    string $tagname - String with the name of the tag&#10;    array $attary - Array with all tag attributes&#10;    array $rm_attnames - See description for tln_sanitize&#10;    array $bad_attvals - See description for tln_sanitize&#10;    array $add_attr_to_tag - See description for tln_sanitize&#10;    string $trans_image_path&#10;    boolean $block_external_images&#10;&#10;Return:&#10;   with modified attributes;;d2,523;;b0,0;;m0;;estring $tagname;;parray $attary;;parray $rm_attnames;;parray $bad_attvals;;parray $add_attr_to_tag;;pstring $trans_image_path;;pboolean $block_external_images;;p">
+</treenode>
+<treenode node="tln_fixstyle;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;667;1;794;;;;vpos;;v;;a;;r;;d0,668;;b0,0;;m0;;ebody;;ppos;;ptrans_image_path;;pblock_external_images;;p">
+</treenode>
+<treenode node="tln_fixurl;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;599;1;665;;;;vpos;;v;;a;;r;;d0,600;;b0,0;;m0;;eattname;;pattvalue;;ptrans_image_path;;pblock_external_images;;p">
+</treenode>
+<treenode node="tln_getnxtag;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;156;1;428;;;;vpos;;v;;aarray;;r&#10;Definition&#10;    tln_getnxtag($body, $offset)&#10;&#10;Description&#10;     This function looks for the next tag.&#10;&#10;Parameters:&#10;    string $body - String where to look for the next tag&#10;    integer $offset - Start looking from here&#10;&#10;Return:&#10;   |boolean false if no more tags exist in the body, or;;d0,157;;b0,0;;m0;;estring $body;;pinteger $offset;;p">
+</treenode>
+<treenode node="tln_sanitize;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;848;1;1012;;;;vpos;;v;;astring;;r&#10;Definition&#10;    tln_sanitize(&#10;    $body,&#10;    $tag_list,&#10;    $rm_tags_with_content,&#10;    $self_closing_tags,&#10;    $force_tag_closing,&#10;    $rm_attnames,&#10;    $bad_attvals,&#10;    $add_attr_to_tag,&#10;    $trans_image_path,&#10;    $block_external_images&#10;)&#10;&#10;Description&#10;     &#10;&#10;Parameters:&#10;    string $body - The HTML you wish to filter&#10;    array $tag_list - see description above&#10;    array $rm_tags_with_content - see description above&#10;    array $self_closing_tags - see description above&#10;    boolean $force_tag_closing - see description above&#10;    array $rm_attnames - see description above&#10;    array $bad_attvals - see description above&#10;    array $add_attr_to_tag - see description above&#10;    string $trans_image_path&#10;    boolean $block_external_images&#10;&#10;Return:&#10;   Sanitized html safe to show on your pages;;d2,859;;b0,0;;m0;;estring $body;;parray $tag_list;;parray $rm_tags_with_content;;parray $self_closing_tags;;pboolean $force_tag_closing;;parray $rm_attnames;;parray $bad_attvals;;parray $add_attr_to_tag;;pstring $trans_image_path;;pboolean $block_external_images;;p">
+</treenode>
+<treenode node="tln_skipspace;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;83;1;91;;;;vpos;;v;;ainteger;;r&#10;Definition&#10;    tln_skipspace($body, $offset)&#10;&#10;Description&#10;     This function skips any whitespace from the current position within a string and to the next non-whitespace value.&#10;&#10;Parameters:&#10;    string $body - the string&#10;    integer $offset - the offset within the string where we should start&#10;&#10;Return:&#10;   the location within the $body where the next;;d0,84;;b0,0;;m0;;estring $body;;pinteger $offset;;p">
+</treenode>
+<treenode node="tln_tagprint;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;40;1;59;;;;vpos;;v;;astring;;r&#10;Definition&#10;    tln_tagprint($tagname, $attary, $tagtype)&#10;&#10;Description&#10;     This function returns the final tag out of the tag name, an array of attributes, and the type of the tag. This function is called by tln_sanitize internally.&#10;&#10;Parameters:&#10;    string $tagname - the name of the tag&#10;    array $attary - the array of attributes and their values&#10;    integer $tagtype - The type of the tag (see in comments)&#10;&#10;Return:&#10;   A string with the final tag representation;;d0,41;;b0,0;;m0;;estring $tagname;;parray $attary;;pinteger $tagtype;;p">
+</treenode>
+<treenode node="tln_unspace;PHP:Function Name;C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php;f0;492;1;501;;;;vpos;;v;;aVoid;;r&#10;Definition&#10;    tln_unspace(&amp;$attvalue)&#10;&#10;Description&#10;     Kill any tabs, newlines, or carriage returns. Our friends the makers of the browser with 95% market value decided that it&apos;d be funny to make &quot;java[tab]script&quot; be just as good as &quot;javascript&quot;.&#10;&#10;Parameters:&#10;    string $attvalue - The attribute value before extraneous spaces removed&#10;&#10;Return:&#10;   , modifies a reference value;;d0,493;;b0,0;;m0;;estring $attvalue;;p">
+</treenode>
+</phptree>
+</codestructure>

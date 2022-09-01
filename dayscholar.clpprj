@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\dayscholar\dayscholar.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/dayscholar/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/dayscholar/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\xampp\htdocs\dayscholar\classes;C:\xampp\htdocs\dayscholar\classes\class.common_forms.php;C:\xampp\htdocs\dayscholar\style.css;"/><added value=""/><lastopfiles>
+		<file name="C:\xampp\htdocs\dayscholar\login.php"/>
+		<file name="C:\xampp\htdocs\dayscholar\_login.php"/>
+		<file name="C:\xampp\htdocs\dayscholar\script.js"/>
+		<file name="C:\xampp\htdocs\dayscholar\css\style.css"/>
+		<file name="C:\xampp\htdocs\dayscholar\mail_config.php"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php"/>
+	</lastopfiles>
+	<todoblock>
+		<todofile name="C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php">
+			<todo name="TODO Why is this needed when the SMTP class takes care of it?" pos="8;230"/>
+			<todo name="TODO This should really not be public" pos="8;362"/>
+			<todo name="@TODO: Write our own &quot;idn_to_ascii&quot; function for PHP &lt;= 5.2." pos="9;1155"/>
+			<todo name="@TODO would be nice to use php://temp streams here, but need to wrap for PHP &lt; 5.1" pos="17;2272"/>
+			<todo name="TODO Should this not be using the __set() magic function?" pos="8;3599"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php">
+			<todo name="TODO No assertions in here - how can you assert for this?" pos="8;1400"/>
+		</todofile>
+	</todoblock>
+	<filescache>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\test\testbootstrap-dist.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\test\test_callback.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerTest.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\test\phpmailerLangTest.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\test\bootstrap.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-zh_cn.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-zh.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-vi.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-uk.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-tr.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-sr.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-sl.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-sk.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-se.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ru.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ro.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-pt.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-pl.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-no.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-nl.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ms.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-lv.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-lt.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ko.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ka.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ja.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-it.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-id.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-hu.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-hr.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-he.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-gl.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-fr.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-fo.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-fi.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-fa.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-et.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-es.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-eo.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-el.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-dk.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-de.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-cz.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ch.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ca.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-br.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-bg.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-be.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-az.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-ar.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\language\phpmailer.lang-am.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\extras\ntlm_sasl_client.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\extras\htmlfilter.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\extras\EasyPeasyICS.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeVisualStudio.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeRDark.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeMidnight.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeMDUltra.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeFadeToGrey.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeEmacs.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeEclipse.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeDjango.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeDefault.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shThemeAppleScript.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCoreRDark.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCoreMidnight.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCoreMDUltra.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCoreFadeToGrey.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCoreEmacs.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCoreEclipse.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCoreDjango.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCoreDefault.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\styles\shCore.css" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\scripts\XRegExp.js" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\scripts\shLegacy.js" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\scripts\shCore.js" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\scripts\shBrushPhp.js" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\scripts\shAutoloader.js" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\index.html" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\contentsutf8.html" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\examples\contents.html" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\docs\pop3_article.txt" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\docs\Note_for_SMTP_debugging.txt" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\docs\faq.html" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\docs\extending.html" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\docs\DomainKeys_notes.txt" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\docs\Callback_function_notes.txt" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\PHPMailerAutoload.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\get_oauth_token.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\class.smtp.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\class.pop3.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauthgoogle.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmaileroauth.php" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\class.phpmailer.php" crc="1474541512"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\.travis.yml" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\PHPMailer\.scrutinizer.yml" crc="1465159176"/>
+		<file name="C:\xampp\htdocs\dayscholar\css\style.css" crc="1661941680"/>
+		<file name="C:\xampp\htdocs\dayscholar\script.js" crc="1661941906"/>
+		<file name="C:\xampp\htdocs\dayscholar\mail_config.php" crc="1661944293"/>
+		<file name="C:\xampp\htdocs\dayscholar\login.php" crc="1661941748"/>
+		<file name="C:\xampp\htdocs\dayscholar\_login.php" crc="1661944791"/>
+	</filescache>
+</project>
